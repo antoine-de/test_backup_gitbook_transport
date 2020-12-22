@@ -1,0 +1,63 @@
+# Table of contents
+
+* [Généralités](README.md)
+* [Qu’est-ce que le Point d’Accès National ?](guide-du-pan.md)
+* [Foire aux questions](foire-aux-questions.md)
+* [Feuille de route](evolution-et-defis-du-pan.md)
+
+## Réutilisateurs
+
+* [Réutiliser des données](reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees.md)
+* [Qualité de donnée](reutilisateurs/qualite-de-donnee.md)
+* [APIs](reutilisateurs/apis.md)
+* [Outils pour les réutilisateurs](reutilisateurs/outils-pour-les-reutilisateurs.md)
+* [Licence ODbL et conditions de réutilisation](reutilisateurs/licence-odbl-et-conditions-de-reutilisation.md)
+
+## Producteurs
+
+* [Responsabilités des AOM et des délégataires](producteurs/responsabilite-des-aom-et-des-delegataires.md)
+* [Publier des données](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan.md)
+* [Mettre à jour des données](producteurs/mettre-a-jour-des-donnees.md)
+* [Transport régulier de personnes \(transports en commun...\)](producteurs/operateurs-de-transport-regulier-de-personnes/README.md)
+  * [Publier des horaires théoriques de transport régulier](producteurs/operateurs-de-transport-regulier-de-personnes/publier-des-horaires-theoriques-de-transport-regulier.md)
+  * [J'ai publié un fichier GTFS. Et maintenant ?](producteurs/operateurs-de-transport-regulier-de-personnes/jai-publie-un-fichier-gtfs.-et-maintenant.md)
+  * [Référencement de votre réseau sur Google Maps](producteurs/operateurs-de-transport-regulier-de-personnes/referencement-de-votre-reseau-sur-google-maps.md)
+  * [Publier des données temps réel de lignes régulières](producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun.md)
+* [Documentation sur les aménagements cyclables](producteurs/amenagements-cyclables/README.md)
+  * [Cadre juridique](producteurs/amenagements-cyclables/cadre-juridique.md)
+  * [Finalité](producteurs/amenagements-cyclables/finalite.md)
+  * [Procédures de publication, consolidation et mise à jour](producteurs/amenagements-cyclables/procedures-de-publication-consolidation-et-mise-a-jour.md)
+* [Infrastructures de recharge de véhicules électriques \(IRVE\)](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve.md)
+* [Points de rencontre de covoiturage](producteurs/points-de-rencontre-de-covoiturage.md)
+* [Lieux de stationnement](producteurs/lieux-de-stationnement.md)
+* [Vélos en libre service](producteurs/velos-en-libre-service.md)
+* [Auto-partage](producteurs/auto-partage.md)
+
+## Cadre juridique <a id="presentation-et-mode-demploi-du-pan"></a>
+
+* [Cadre juridique harmonisé](presentation-et-mode-demploi-du-pan/cadre-juridique-harmonise.md)
+
+## Documentation
+
+* [Rencontres publiques](documentation/liste-des-rencontres-publiques/README.md)
+  * [25/11/2020 - Stationnement cyclable \#1](documentation/liste-des-rencontres-publiques/25-11-2020-stationnement-cyclable-1.md)
+  * [12/11/2020 - Transports personnels, Autopartage \#2](documentation/liste-des-rencontres-publiques/12-11-2020-transports-personnels-autopartage-2.md)
+  * [27/08/2020 - Infrastructures cyclables \#3](documentation/liste-des-rencontres-publiques/27-08-2020-infrastructures-cyclables-3.md)
+  * [08/07/2020 - Infrastructures cyclables \#2](documentation/liste-des-rencontres-publiques/08-07-2020-infrastructures-cyclables-2.md)
+  * [19/05/2020 - Données tarifaires des transports en commun](documentation/liste-des-rencontres-publiques/19-05-2020-donnees-tarifaires-des-transports-en-commun.md)
+  * [10/10/2019 - Données Aériennes \(2\)](documentation/liste-des-rencontres-publiques/donnees-aeriennes-2.md)
+  * [27/09/2019 - Stationnement \(2\)](documentation/liste-des-rencontres-publiques/atelier-stationnement-2.md)
+  * [27/06/2019 - Infrastructures cyclables](documentation/liste-des-rencontres-publiques/27-06-2019-infrastructures-cyclables.md)
+  * [13/06/2019 - Transport aérien](documentation/liste-des-rencontres-publiques/13-06-2019-transport-aerien.md)
+  * [25/04/2019 - Stationnement](documentation/liste-des-rencontres-publiques/05-05-2019-openlab-stationnement-hors-voirie.md)
+  * [05/04/2019 - Licences et conditions d'accès](documentation/liste-des-rencontres-publiques/licences.md)
+  * [17/01/2019 - Transport régulier - Temps réel \(2\)](documentation/liste-des-rencontres-publiques/17-01-2019-2eme-atelier-temps-reel.md)
+  * [16/10/2018 - Véhicules en partage](documentation/liste-des-rencontres-publiques/16-10-2018-vehicules-en-partage.md)
+  * [20/09/2018 - Transport régulier - Temps réel](documentation/liste-des-rencontres-publiques/20-09-2018-transport-regulier-temps-reel.md)
+  * [13/02/2018 - Transport collectif - données théoriques](documentation/liste-des-rencontres-publiques/13-02-2018-transport-collectif-donnees-theoriques.md)
+  * [10/04/2019 - Tour de France \(Rennes\)](documentation/liste-des-rencontres-publiques/tour-de-france.md)
+  * [06/11/2017 - Rencontre publique licences de réutilisation \#2](documentation/liste-des-rencontres-publiques/licences-2.md)
+  * [09/10/2017 - Rencontre publique licences de réutilisation \#1](documentation/liste-des-rencontres-publiques/licences-1.md)
+  * [28/08/2020 Transports personnels - Autopartage](documentation/liste-des-rencontres-publiques/28-08-2020-vehicules-en-partage-2.md)
+* [Ressources](documentation/ressources.md)
+
