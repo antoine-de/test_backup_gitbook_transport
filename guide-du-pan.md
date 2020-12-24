@@ -36,15 +36,15 @@ La réalisation du Point d’accès national aux données est l’une des action
 
 L’ensemble des données utiles à l’information voyageur au sens large sont concernées par la mise à disposition via le Point d’Accès National, et ce pour tous les modes de transport, qu’ils soient publics ou privés. La liste des données statiques et dynamiques est disponible en annexe du [règlement \(UE\) n° 2017/1926](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32017R1926&from=EN).
 
-En octobre 2020, le PAN héberge les données d’horaires théoriques de transport en commun de 218 autorités organisatrices de la mobilité sur 337 et 13 régions sur 18, couvrant 83% de la population bénéficiant d’un réseau de transport local :
+En décembre 2020, le PAN héberge les données d’horaires théoriques de transport en commun de 226 autorités organisatrices de la mobilité sur 335 et 14 régions sur 18, couvrant 88% de la population bénéficiant d’un réseau de transport local :
 
-![Etat de l&apos;open data  : R&#xE9;seaux urbains - horaires th&#xE9;oriques \(Octobre 2020\)](.gitbook/assets/image%20%2839%29.png)
+![Etat de l&apos;open data  : R&#xE9;seaux urbains - horaires th&#xE9;oriques \(D&#xE9;cembre 2020\)](.gitbook/assets/image%20%2872%29.png)
 
-L’équipe de transport.data.gouv.fr a également commencé à référencer d’autres types de données :
+L’équipe de transport.data.gouv.fr référence également d’autres données de mobilité :
 
-* **Lignes régulières de transports publics \(bus, tram, métros\)** – temps-réel : 29 agglomérations-pilote ;
-* **Aires de covoiturage** : 2.360 aires dans 70 départements ;
-* **Parkings hors-voirie :** 685 parkings dans 15 collectivités ;
+* **Lignes régulières de transports publics \(bus, tram, métros\)** – **temps-réel** : 37 agglomérations ;
+* **Aires de covoiturage** : 2.416 aires dans 78 départements ;
+* **Parkings hors-voirie :** 744 parkings dans 17 collectivités ;
 * **Bornes de recharge de véhicules électriques** : 10.600 à travers la France ;
 * **Vélos en libre-service** : 19 jeux de données ;
 * **Bus longue-distance** : 6 jeux de données.
