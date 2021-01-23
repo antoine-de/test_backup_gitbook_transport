@@ -31,12 +31,13 @@ Ces aménagements ne sont pas tous réglementaires et ont pour objectif de décr
 
 Certains aménagements, dont les aménagements non réglementaires, ne contiennent pas toutes ces illustrations. 
 
-Ces aménagements ont été définis grâce aux définitions : 
+Ces aménagements ont été définis grâce aux définitions et illustrations : 
 
 * du Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement \([CEREMA](https://www.cerema.fr/fr)\) ;
 * de la Fédération Française des Usagers de la Bicyclette \([FUB](https://www.fub.fr/)\) ;
 * de l'Association Droit au Vélo \([ADAV](https://droitauvelo.org/)\) ;
 * de l'association [Vélo & Territoires ](https://www.velo-territoires.org/);
+* de[ France Vélo Tourisme ](https://www.francevelotourisme.com/conseils/preparer-mon-voyage-a-velo/reseau-cyclable-france)
 
 ## Aménagements cyclables
 
@@ -46,6 +47,8 @@ La désignation « accotement revêtu », que les gestionnaires de la route appe
 
 Elle permet également aux cyclistes de circuler en sécurité. 
 
+La désignation « accotement revêtu », que les gestionnaires de la route appellent aussi « bande multifonctionnelle », désigne une surlargeur revêtue, adjacente à la chaussée. Elle a une fonction sécuritaire. Elle permet l'arrêt d'un véhicule en panne, la récupération d’un véhicule déviant de sa trajectoire normale en autorisant des manœuvres d’urgences et facilite les intervention d'urgence. Un accotement revêtu d'une largeur suffisante offre un confort et une sécurité comparable aux bandes cyclables. Seuls les cyclistes ont le droit de rouler dessus en marche normale, au contraire des autres véhicules qui eux doivent rester sur la partie centrale de la chaussée. Le statut d’accotement permet en effet arrêt et stationnement des véhicules motorisés \[6, R. 417-1\], sauf décision contraire de l'autorité investie du pouvoir de police matérialisée par la signalisation prévue à cette effet, ce que ne permettent pas les bandes cyclables et pistes cyclables.
+
 {% hint style="success" %}
 **Aménagement conforme**
 
@@ -54,7 +57,7 @@ Elle permet également aux cyclistes de circuler en sécurité.
 
 ### Aménagements mixtes piéton/vélo hors voie verte 
 
-Ponctuellement, en ville, en cas de rétrécissement de l’emprise \(ouvrage d’art, point dur, émergence, etc.\), une cohabitation piétons-cyclistes peut être envisagée sur une courte distance.
+Les définitions suivantes ne caractérisent pas des aménagements règlementaires mais décrivent ce que l'on peut rencontrer sur le terrain. Ponctuellement, en ville, en cas de rétrécissement de l’emprise \(ouvrage d’art, point dur, émergence, etc.\), une cohabitation piétons-cyclistes peut être envisagée sur une courte distance. Franchissement supérieur : sur les ponts, les emprises sont souvent limitées et obligent cette cohabitation sur un même espace.  
 
 **Franchissement supérieur** : sur les ponts, les emprises sont souvent limitées et obligent cette cohabitation sur un même espace. Piétons et cyclistes circulent généralement tous dans le même sens ce qui favorise la mixité et limite les risques de conflits du fait de trajectoires différentes.
 
@@ -66,7 +69,9 @@ Ponctuellement, en ville, en cas de rétrécissement de l’emprise \(ouvrage d�
 
 ### Bande cyclable
 
-Une bande cyclable désigne une voie exclusivement réservée aux cycles à deux ou trois roues sur une chaussée à plusieurs voies \(Décret n° 98-828 du 14 septembre 1998, art. R110-2 \). Elle peut être unidirectionnelle ou bidirectionnelle. Il n'y a pas de séparation physique avec la chaussée mais un simple marquage au sol \(une ligne blanche discontinue T3 5u ou exceptionnellement par une ligne continue 3u\) et une signalisation verticale avec à l'entrée un panneau C113 et en sortie un panneau C114. La circulation des autres véhicules, le stationnement et la livraison y sont interdits.
+Une bande cyclable désigne une voie exclusivement réservée aux cycles à deux ou trois roues sur une chaussée à plusieurs voies \(Décret n° 98-828 du 14 septembre 1998, art. R110-2 \). 
+
+Elle est unidirectionnelle. Il n'y a pas de séparation physique avec la chaussée mais un simple marquage au sol, à savoir une ligne blanche discontinue T3 5u ou exceptionnellement par une ligne continue 3u. Dans le cas général, une bande cyclable facultative est signalée par un marquage de type T3 5u et une figurine « vélo » accompagnée d'une flèche. La figurine et la flèche sont facultatives. Le panneau C113 pourra être utilisé en cas de mauvaise perception de la bande, notamment dans les intersections avec le réseau structurant, en cas de discontinuité ou en début de l’aménagement. L’obligation d'emprunter une bande, à réserver à des configurations particulières, peut être instaurée par l’autorité investie du pouvoir de police après avis du préfet \(art. R.431-9\). Elle est exprimée sur le terrain par l’utilisation du panneau B22a. La circulation des autres véhicules, le stationnement et la livraison y sont interdits.
 
 {% hint style="success" %}
 **Aménagement conforme** 
@@ -106,7 +111,7 @@ Panneau B40 \(usage obligatoire\)
 
 ### Chaussée à voie centrale banalisée
 
-La chaussée à voie centrale banalisée, ou « C.V.C.B. », est un aménagement particulier d’une chaussée lorsqu’il est impossible, pour des questions de largeur disponible, d’y tracer des bandes cyclables. On crée alors une voie centrale de circulation générale, banalisée car elle accueille la circulation dans les deux sens. La largeur restante est octroyée à des accotements où peuvent circuler piétons et cyclistes et permettent aux véhicules motorisés de se croiser en empiétant sur ces espaces. Cet aménagement n’a pas vocation à être d’emploi systématique mais doit rester exceptionnel. Le statut d’accotement permet en effet arrêt et stationnement des véhicules motorisés \[6, R. 417-1\], ce que ne permettent pas les bandes cyclables et pistes cyclables, La largeur minimale recommandée des accotements d’une chaussée à voie centrale banalisée est la même que celle des bandes cyclables, 1,50 m hors marquage.
+La chaussée à voie centrale banalisée, ou « C.V.C.B. », est un aménagement particulier d’une chaussée lorsqu’il est impossible, pour des questions de largeur disponible, d’y tracer des bandes cyclables. On crée alors une voie centrale de circulation générale, banalisée car elle accueille la circulation dans les deux sens. La largeur restante est octroyée à des accotements revêtus où peuvent circuler piétons et cyclistes et permettent aux véhicules motorisés de se croiser en empiétant sur ces espaces. Cet aménagement n’a pas vocation à être d’emploi systématique mais doit rester exceptionnel. Le statut d’accotement permet en effet arrêt et stationnement des véhicules motorisés \[6, R. 417-1\], sauf décision contraire de l'autorité investie du pouvoir de police matérialisée par la signalisation prévue à cette effet, ce que ne permettent pas les bandes cyclables et pistes cyclables. La largeur minimale recommandée des accotements d’une chaussée à voie centrale banalisée est la même que celle des bandes cyclables, 1,50 m hors marquage.
 
 {% hint style="success" %}
 **Aménagement conforme**
@@ -132,9 +137,9 @@ Il n’y a pas, à l’heure actuelle, de panneau officiel indiquant l’entrée
 
 ### Couloir ouvert bus/vélo
 
-Un couloir bus-vélos est une voie dédiée à la circulation mixte des bus et des vélos \(arrêté préfectoral n° 01-15042\).
+Un couloir bus-vélos est une voie dédiée à la circulation mixte des bus et des vélos \(article R412-7 du code de la route\). 
 
-Le couloir bus « ouvert » a une largeur  de 3,00m à 3,50m. 
+Le couloir de bus dit « fermé » : La séparation est un séparateur non franchissable ou une ligne continue. La largeur recommandée est de 4,50 m avec un minimum de 4,30 m. Les bus et les cyclistes peuvent se doubler à l'intérieur du couloir. Le couloir de bus dit « ouvert » : La séparation du couloir dit ouvert se fait par une ligne discontinue. Dans ce type de couloir, le bus et le cycliste peuvent sortir du couloir pour se doubler. Largeur de 3 m à 3,50 m.
 
 {% hint style="success" %}
 **Aménagement conforme** 
@@ -156,9 +161,19 @@ Le couloir bus « ouvert » a une largeur  de 3,00m à 3,50m.
 
 ### Double sens cyclable 
 
-Le double-sens cyclable, ou « D.S.C. », n’est pas tant un objet qu’un concept ou une caractéristique portée par une rue. Une rue dite « en double-sens cyclable » est à double sens de circulation — ou bidirectionnelle —, mais un de ces sens est réservé aux seuls cyclistes. Les rues dont la vitesse maximale autorisée est de 30 km/h ou moins sont toutes en double-sens cyclable, sauf décision contraire de l’autorité investie du pouvoir de police. La création de l’article R. 412-28-1 étend son domaine d’emploi initialement cantonné aux zones de rencontre et zones 30.
+Le double-sens cyclable, ou « D.S.C. », n’est pas tant un objet qu’un concept ou une caractéristique portée par une rue. Une rue dite « en double-sens cyclable » est à double sens de circulation — ou bidirectionnelle —, mais un de ces sens est réservé aux seuls cyclistes. 
 
-La signalisation par marquage des double-sens cyclables se fait à l’aide de la figurine vélo accompagnée d’une flèche directionnelle. En ce qui concerne les lignes séparatrices, s’il est fait le choix d’un marquage séparatif axial, elles peuvent être discontinues du type T’1-2u ou T3-2u; ou continues 9 de largeur 2u. Si le sens réservé aux cyclistes est traité sous la forme d’une bande cyclable, la ligne séparatrice est du type « bande » T3-5u avec une surlargeur de 50 cm. En entrée de double-sens cyclable, sens réservé aux cyclistes, le panneau de sens interdit B 1 doit être complété par un panonceau M 9v2 qui lève sa prescription pour les cycles. Dans le sens de la circulation générale, un panneau C 24a pourra être utilisé pour indiquer aux usagers qu’ils croiseront des cyclistes \[18, article 72-3\]. En sortie des voies sécantes, un panneau C 24c similaire indique aux usagers que la circulation se fait dans les deux sens, avec un sens réservé aux cyclistes \(figure 2-4.b\). En sortie de double-sens cyclable, les intersections sont soumises aux régimes habituels de priorité \(figure 2-5.a\). Les marquages au sol pourront être tracés avec un rapport de réduction de 2 \[19, article 118-1 C\]. Lorsqu’un doute persiste, les panneaux de priorité pourront être complétés par un panonceau M 4d1 afin de rappeler qu’ils ne s’appliquent qu’aux cyclistes \(figure 2-5.b\).
+On prêtera attention à sa dénomination et, bien que l’expression contre-sens cyclable ait pu être régulièrement utilisée, on évitera désormais son emploi afin d’éviter toute confusion avec la circulation à contre-sens qui est une infraction. La fermeture d’un sens de circulation aux véhicules motorisés est rendue possible par l’article L. 2213-2 du Code général des collectivités territoriales. Les rues dont la vitesse maximale autorisée est de 30 km/h ou moins ont toutes vocation à être en double-sens cyclable, sauf décision contraire motivée de l’autorité investie du pouvoir de police. La création de l’article R. 412-28-1 étend son domaine d’emploi initialement cantonné aux zones de rencontre et zones 30. La mise à double-sens cyclable d’une rue peut se faire par un grand nombre de moyens, du plus simple au plus technique, du plus léger au plus lourd. En ce sens, le « D.S.C. » ne saurait désigner un seul et unique aménagement. Le sens réservé aux seuls cyclistes pourra donc être, selon le cas :
+
+* non matérialisé;
+* matérialisé par des pictogrammes \(figurine vélo accompagnée d’une flèche directionnelle\);
+* séparé par une ligne axiale, continue \(largeur 2u\) ou discontinue \(type T’1-2u ou T3-2u\);
+* matérialisé par une bande cyclable \(ligne séparatrice est du type « bande » T3-5u avec une surlargeur de 50 cm\);
+* matérialisé par une piste cyclable.
+
+Étant donné qu’en France, la circulation se fait à droite \(6, R. 412-9\), la voie réservée aux cycles longera toujours le bord droit de la chaussée vue par ses usagers et, réciproquement, longera le bord gauche de la chaussée du point de vue des usagers de véhicules motorisés. 
+
+La présence du panonceau M 9v2 est obligatoire même lorsque le double-sens cyclable est une règle par défaut, puisque c’est ce panonceau et lui seul qui modifie la prescription signalée par le panneau de sens interdit B1."
 
 {% hint style="success" %}
 **Aménagements conformes**
@@ -198,16 +213,18 @@ Aménagement qui facilite la montée et la descente d’un escalier avec un vél
 
 ### Piste cyclable
 
-Une piste cyclable désigne une route indépendante ou la partie d’une route destinée aux cyclistes et indiquée comme telle par des signaux. Une piste cyclable est séparée des autres routes ou des autres parties de la même route par des aménagements matériels. Ainsi, elle se traduit par une chaussée exclusivement réservée aux cycles à deux ou trois roues et aux engins de déplacement personnel motorisés \(Article R. 110-2\). Elles peuvent être unidirectionnelles, à un seul sens de circulation, ou bidirectionnelles, à deux sens de circulation. 
+Chaussée exclusivement réservée aux cycles à deux ou trois roues et aux engins de déplacement personnel motorisés \(Article R. 110-2 du code de la route\). 
 
-Les largeurs recommandées d’une piste cyclable sont de 2 m pour une piste unidirectionnelle et de 3 m pour une piste bidirectionnelle. Ces largeurs doivent être adaptées au contexte local et à la fréquentation.
+Les piétons ne peuvent pas y circuler, sauf en l'absence d'espaces dédiés aux piétons. Les pistes cyclables peuvent être unidirectionnelles, à un seul sens de circulation, ou bidirectionnelles, à deux sens de circulation. 
 
- Elle est signalée à l'entrée par un panneau C113 et en sortie par un panneau C114
+Les largeurs recommandées d’une piste cyclable sont de 2 m pour une piste unidirectionnelle et de 3 m pour une piste bidirectionnelle. Ces largeurs doivent être adaptées au contexte local et à la fréquentation. L'utilisation des pistes cyclables est conseillée aux cyclistes, sauf décision contraire de l’autorité investie du pouvoir de police pour rendre l'aménagement cyclable obligatoire \(avis du préfet à demander\). 
+
+Les pistes cyclables sont signalées par du marquage au sol et/ou par des panneaux. Le choix du panneau dépend du caractère obligatoire de la piste. Lorsqu’elle est obligatoire, on utilise le signal B 22a. Lorsqu’elle est seulement conseillée, on a recours au panneau C 113. Ce dernier est d’emploi facultatif en présence du marquage au sol au début de l'aménagement. Lorsque les cyclomotoristes sont autorisés à utiliser ces voies, par un arrêté pris par l'autorité investie du pouvoir de police, on ajoute le panonceau M 4d2 sous le panneau utilisé. Des panneaux équivalents comme le B40 ou le C114, barrés de rouge, signalent la fin d’un aménagement. Les marques au sol qui désignent les voies réservées aux cycles sont du type « figurine » \(au début de l'aménagement et en rappel\), ou « figurine encadrée » \(réservé au début de l'aménagement\)."
 
 {% hint style="success" %}
   **Aménagement conforme** 
 
- ![](../../.gitbook/assets/image%20%2854%29.png) 
+ ![](../../.gitbook/assets/p1100040_0.jpg) 
 {% endhint %}
 
 {% hint style="danger" %}
@@ -250,7 +267,9 @@ Panneau B40 \(usage obligatoire\)
 
 ### Vélorue
 
-La vélorue n’a, à l’heure de l’écriture de ce document, pas de cadre réglementaire en France. Elle existe ailleurs en Europe : en Belgique, au Danemark ou aux Pays-Bas. Plusieurs collectivités françaises dont Strasbourg, Bordeaux, Dijon ou Caen ont tout de même franchi le cap et ont transformé certaines de leurs rues en vélorues. On retrouve certains traits communs à ces voies, comme la notion de priorité du cycliste, la recherche de réduction des vitesses, et le découragement du transit. Dans certains cas, il est même interdit de dépasser les cyclistes.
+La vélorue n’a, à l’heure de l’écriture de ce document, pas de cadre réglementaire en France. Elle existe ailleurs en Europe : en Belgique, au Danemark ou aux Pays-Bas. Plusieurs collectivités françaises dont Strasbourg, Bordeaux, Dijon ont tout de même franchi le cap et ont transformé certaines de leurs rues en vélorues.
+
+ On retrouve certains traits communs à ces voies, comme la notion de priorité du cycliste, la recherche de réduction des vitesses, et le découragement du transit. Dans certains cas, il est même interdit de dépasser les cyclistes.
 
 {% hint style="success" %}
 **Aménagement suggéré**
@@ -268,12 +287,14 @@ La vélorue n’étant pas encore réglementée , aucune signalisation particuli
 
 ### Voie verte
 
-Une voie verte désigne une route exclusivement réservée à la circulation d'usagers non motorisés, à savoir les piétons au sens large \(pratiquants de rollers, personnes en fauteuil roulant…\), les cyclistes et les cavaliers. Ce sont des aménagements en site propre \(séparés de la circulation motorisée\), destinés aux déplacements quotidiens et de loisirs, et souvent réalisés sur une ancienne voie de chemin de fer désaffectée, un chemin de halage, un chemin rural, un chemin forestier, etc. \(Décret n° 2004-998 du 16 septembre 2004\). Sa Largeur varie entre 3 et 5m. Elle est signalée à l'entrée par un panneau C115 et en sortie par un panneau C116
+Une voie verte désigne une route exclusivement réservée à la circulation d'usagers non motorisés, à savoir les piétons au sens large \(pratiquants de rollers, personnes en fauteuil roulant…\), les cyclistes et les cavaliers. Ce sont des aménagements en site propre \(séparés de la circulation motorisée\), destinés aux déplacements quotidiens et de loisirs, et souvent réalisés sur une ancienne voie de chemin de fer désaffectée, un chemin de halage, un chemin rural, un chemin forestier, etc. \(Décret n° 2004-998 du 16 septembre 2004\). Sa Largeur varie entre 3 et 5m. Elle est signalée à l'entrée par un panneau C115 et en sortie par un panneau C116.
+
+L'autorisation à cheval nécessite l'installation du panonceau M4y sous le panneau voie verte \(C115\).
 
 {% hint style="success" %}
 **Aménagement conforme** 
 
-\*\*\*\*![](../../.gitbook/assets/telechargement-3-1-.png)
+\*\*\*\*![](../../.gitbook/assets/voie_verte.jpg)
 {% endhint %}
 
 {% hint style="danger" %}
@@ -304,6 +325,8 @@ Les cyclistes y sont la plupart du temps admis \(c'est leur interdiction qui doi
 
 Une aire piétonne désigne une section ou un ensemble de sections de voies en agglomération, hors routes à grande circulation, constituant une zone affectée à la circulation des piétons de façon temporaire ou permanente. Dans cette zone, sous réserve des dispositions de l’article R431-9 du code la route, seuls les véhicules nécessaires à la desserte interne de la zone sont autorisés à circuler à l’allure du pas et les piétons sont prioritaires sur ceux-ci. Les entrées et sorties de cette zone sont annoncées par une signalisation. 
 
+Les rues d'une aire piétonne ont toutes vocation à être en double-sens cyclable, sauf décision contraire motivée de l’autorité investie du pouvoir de police.
+
 {% hint style="success" %}
 **Aménagement conforme**
 
@@ -324,7 +347,9 @@ Une aire piétonne désigne une section ou un ensemble de sections de voies en a
 
 ### Zone de rencontre 
 
-Une zone de rencontre désigne une section ou un ensemble de sections de voies en agglomération constituant une zone affectée à la circulation de tous les usagers. Dans cette zone, les piétons sont autorisés à circuler sur la chaussée sans y stationner et bénéficient de la priorité sur les véhicules. La vitesse des véhicules y est limitée à 20 km/h. Toutes les chaussées sont à double sens pour les cyclistes, sauf dispositions différentes prises par l’autorité investie du pouvoir de police. Les entrées et sorties de cette zone sont annoncées par une signalisation et l’ensemble de la zone est aménagé de façon cohérente avec la limitation de vitesse applicable.
+Une zone de rencontre désigne une section ou un ensemble de sections de voies en agglomération constituant une zone affectée à la circulation de tous les usagers. Dans cette zone, les piétons sont autorisés à circuler sur la chaussée sans y stationner et bénéficient de la priorité sur les véhicules. La vitesse des véhicules y est limitée à 20 km/h.  Les entrées et sorties de cette zone sont annoncées par une signalisation et l’ensemble de la zone est aménagé de façon cohérente avec la limitation de vitesse applicable. 
+
+Les rues d'une zone de rencontre ont toutes vocation à être en double-sens cyclable, sauf décision contraire motivée de l’autorité investie du pouvoir de police. 
 
 {% hint style="info" %}
 **Signalétique associée à l'aménagement**
@@ -340,7 +365,9 @@ Une zone de rencontre désigne une section ou un ensemble de sections de voies e
 
 ### Zone 30
 
-Une zone 30 désigne une section ou un ensemble de sections de voies constituant une zone affectée à la circulation de tous les usagers. Dans cette zone, la vitesse des véhicules est limitée à 30 km/h. Toutes les chaussées sont à double sens pour les cyclistes, sauf dispositions différentes prises par l’autorité investie du pouvoir de police. Les entrées et sorties de cette zone sont annoncées par une signalisation B30 et B51, et l’ensemble de la zone est aménagé de façon cohérente avec la limitation de vitesse applicable.
+Une zone 30 désigne une section ou un ensemble de sections de voies constituant une zone affectée à la circulation de tous les usagers. Dans cette zone, la vitesse des véhicules est limitée à 30 km/h. Les entrées et sorties de cette zone sont annoncées par une signalisation B30 et B51, et l’ensemble de la zone est aménagé de façon cohérente avec la limitation de vitesse applicable. 
+
+Les rues dont la vitesse maximale autorisée est de 30 km/h ou moins ont toutes vocation à être en double-sens cyclable, sauf décision contraire motivée de l’autorité investie du pouvoir de police. 
 
 {% hint style="info" %}
 **Signalétique associée à l'aménagement** 
