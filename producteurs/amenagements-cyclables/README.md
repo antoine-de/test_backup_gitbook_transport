@@ -7,7 +7,7 @@ Le schéma de la base de données a été co-construit avec
 * Géovélo : producteur et réutilisateur de données
 * Des collectivités productrices de données :
   * Les villes d'Angers, de Brest, de Grenoble, de Montpellier, de Paris
-  * Le syndicat intercommunautaire Ouest Cornouaille Aménagement
+  * Le syndicat intercommunautaire Ouest Cornouaille Aménagement \(SIOCA\)
   * Les communautés de communes Touraine Vallée de l'Indre et Val d'Ille-Aubigné  
   * Les communautés d'agglomération Grand Chambéry, Pays Basque et Ventoux Comtat Venaissin 
   * La communauté urbaine Grand Poitiers
@@ -38,6 +38,9 @@ Ces aménagements ont été définis grâce aux définitions et illustrations :
 * de l'Association Droit au Vélo \([ADAV](https://droitauvelo.org/)\) ;
 * de l'association [Vélo & Territoires ](https://www.velo-territoires.org/);
 * de[ France Vélo Tourisme ](https://www.francevelotourisme.com/conseils/preparer-mon-voyage-a-velo/reseau-cyclable-france)
+* Thomas Montagne, Vélo & Territoires
+* Emmanuel ROCHE, Grand Chambéry
+* Michael Haüsle, SIOCA
 
 ## Aménagements cyclables
 
@@ -186,7 +189,7 @@ La présence du panonceau M 9v2 est obligatoire même lorsque le double-sens cyc
 
 ![](../../.gitbook/assets/image%20%283%29.png) 
 
-Aménagement confus : une bande cyclable est indiquée comme obligatoire. Deux panneaux C 24a la signalent comme bidirectionnelle alors qu’un panneau C 12 précise que la rue est à sens unique. La largeur de la bande est manifestement incompatible avec le croisement de cyclistes. Enfin, le débouché de la voie réservée est obstrué par un îlot qui contraint les cyclistes à se déporter face aux véhicules motorisés à l’approche.
+Aménagement confus : une bande cyclable est indiquée comme obligatoire. Deux panneaux C 24c la signalent comme bidirectionnelle alors qu’un panneau C 12 précise que la rue est à sens unique. La largeur de la bande est manifestement incompatible avec le croisement de cyclistes. Enfin, le débouché de la voie réservée est obstrué par un îlot qui contraint les cyclistes à se déporter face aux véhicules motorisés à l’approche.
 {% endhint %}
 
 {% hint style="info" %}
@@ -196,9 +199,13 @@ Aménagement confus : une bande cyclable est indiquée comme obligatoire. Deux p
 
 ![](../../.gitbook/assets/image%20%2845%29.png)
 
-**Panneau**  : Panneau C24a
+**Panneau**  : Panneau C24c
 
  ![](../../.gitbook/assets/image%20%281%29.png) 
+
+Panneau : Panneau B1 accompagné d'un panneau M9V2
+
+![](../../.gitbook/assets/ljsqk-1-.png) 
 {% endhint %}
 
 ### Goulotte
