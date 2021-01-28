@@ -38,6 +38,7 @@ Ces aménagements ont été définis grâce aux définitions et illustrations :
 * de l'Association Droit au Vélo \([ADAV](https://droitauvelo.org/)\) ;
 * de l'association [Vélo & Territoires ](https://www.velo-territoires.org/);
 * de[ France Vélo Tourisme ](https://www.francevelotourisme.com/conseils/preparer-mon-voyage-a-velo/reseau-cyclable-france)
+* de Michael Häusle, [SIOCA](https://www.sioca.fr)
 
 ## Aménagements cyclables
 
