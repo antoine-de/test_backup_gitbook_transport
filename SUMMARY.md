@@ -5,6 +5,7 @@
 * [Foire aux questions](foire-aux-questions.md)
 * [Feuille de route](evolution-et-defis-du-pan.md)
 * [Notre écosystème](notre-ecosysteme/README.md)
+  * [Les facilitateurs](notre-ecosysteme/les-facilitateurs.md)
   * [Les réutilisateurs](notre-ecosysteme/les-reutilisateurs.md)
 
 ## Réutilisateurs
