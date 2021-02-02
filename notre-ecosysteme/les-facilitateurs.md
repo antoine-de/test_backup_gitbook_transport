@@ -6,11 +6,15 @@
 
 ### [Cityway](https://www.cityway.fr/)
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
 ### [La Fabrique des Mobilités](http://lafabriquedesmobilites.fr/)
 
 ![](../.gitbook/assets/unnamed-1-1-.jpg)
+
+### [Mécatran](https://www.mecatran.com/fr/)
+
+![](../.gitbook/assets/image%20%2895%29.png)
 
 ### [MobilityData](https://mobilitydata.org/)
 
@@ -22,7 +26,7 @@
 
 ### [Vélo & Territoires](https://www.velo-territoires.org/)
 
-![](../.gitbook/assets/image%20%2897%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 ### [Zenbus](https://zenbus.fr/)
 
