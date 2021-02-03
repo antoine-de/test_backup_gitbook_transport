@@ -103,5 +103,7 @@ Pour cela, l'équipe du PAN est en contact permanent avec les réutilisateurs de
 
 Face à la crainte que ces données temps réel génèrent une charge intense sur les serveurs et donc des frais de mise à disposition importants, le PAN peut se placer comme serveur-proxy. Dans ce cas, le PAN récupère les données toutes les 30 secondes depuis le serveur de l'AOM ou de son prestataire. Ces données sont stockées sur les serveurs du PAN et servies aux réutilisateurs depuis les serveurs du PAN. Ainsi, quel que soit le volume réel de réutilisation de ces données, l'AOM ou son prestataire ne connait qu'une seule requête toutes les 30 secondes.
 
+Pour faire une demande de proxy, nous vous invitons à envoyer l'URL vers votre flux temps-réel à l'adresse  [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr). Nous reviendrons ensuite vers vous avec un lien personnalisé que vous pourrez renseigner sur votre compte data.gouv.fr. 
+
 Pour des contraintes techniques, **ce schéma du PAN comme serveur-proxy n'est possible qu'avec une diffusion au format GTFS-RT.** 
 
