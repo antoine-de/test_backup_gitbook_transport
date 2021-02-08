@@ -37,7 +37,8 @@ Ces aménagements ont été définis grâce aux définitions et illustrations :
 * de la Fédération Française des Usagers de la Bicyclette \([FUB](https://www.fub.fr/)\) ;
 * de l'Association Droit au Vélo \([ADAV](https://droitauvelo.org/)\) ;
 * de l'association [Vélo & Territoires ](https://www.velo-territoires.org/);
-* de[ France Vélo Tourisme ](https://www.francevelotourisme.com/conseils/preparer-mon-voyage-a-velo/reseau-cyclable-france)
+* de[ France Vélo Tourisme](https://www.francevelotourisme.com/conseils/preparer-mon-voyage-a-velo/reseau-cyclable-france), 
+* d'Emmanuel Roche, Grand Chambéry
 * de Michael Häusle, [SIOCA](https://www.sioca.fr)
 
 ## Aménagements cyclables
