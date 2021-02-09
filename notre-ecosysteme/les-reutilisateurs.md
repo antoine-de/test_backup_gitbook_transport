@@ -60,6 +60,10 @@
 
 ![](../.gitbook/assets/localisateur.jpg)
 
+### \*\*\*\*[**Les Voitures**](https://lesvoitures.fr/)
+
+![](../.gitbook/assets/les-voitures-com-logo-1-.png)
+
 ### \*\*\*\*[**Lumiplan**](https://www.lumiplan.com/)\*\*\*\*
 
 ![](../.gitbook/assets/lumiplan-logo.jpg)
@@ -75,6 +79,10 @@
 ### \*\*\*\*[**MyBus**](https://www.mybus.io/)
 
 ![](../.gitbook/assets/mybus-logo.svg)
+
+### \*\*\*\*[**Nhood**](https://nhood.fr/fr)\*\*\*\*
+
+![](../.gitbook/assets/logo-lieux-en-mieux-droite-2-.png)
 
 ### \*\*\*\*[**Rome2rio**](https://www.rome2rio.com/)
 
