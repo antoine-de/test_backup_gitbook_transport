@@ -1,4 +1,4 @@
-# Qualité de donnée
+# Qualité de données
 
 ## Pourquoi est-ce important ?
 

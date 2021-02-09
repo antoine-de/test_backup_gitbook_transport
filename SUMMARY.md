@@ -11,7 +11,7 @@
 ## Réutilisateurs
 
 * [Réutiliser des données](reutilisateurs/utilisation-par-les-reutilisateurs-de-donnees.md)
-* [Qualité de donnée](reutilisateurs/qualite-de-donnee.md)
+* [Qualité de données](reutilisateurs/qualite-de-donnee.md)
 * [APIs](reutilisateurs/apis.md)
 * [Outils pour les réutilisateurs](reutilisateurs/outils-pour-les-reutilisateurs.md)
 * [Licence ODbL et conditions de réutilisation](reutilisateurs/licence-odbl-et-conditions-de-reutilisation.md)
