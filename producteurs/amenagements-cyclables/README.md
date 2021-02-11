@@ -54,7 +54,7 @@ Un accotement revêtu d'une largeur suffisante offre un confort et une sécurit�
 {% hint style="success" %}
 **Aménagement conforme**
 
-\*\*\*\*![](../../.gitbook/assets/image%20%2818%29.png)\*\*\*\*
+\*\*\*\*![](../../.gitbook/assets/image%20%2818%29.png)\*\*\*\*![](../../.gitbook/assets/accotement-revetu.jpeg) ****
 {% endhint %}
 
 ### Aménagements mixtes piéton/vélo hors voie verte 
@@ -78,7 +78,7 @@ Elle est unidirectionnelle. Il n'y a pas de séparation physique avec la chauss�
 {% hint style="success" %}
 **Aménagement conforme** 
 
-![](../../.gitbook/assets/image%20%2858%29.png) ![](../../.gitbook/assets/image%20%2831%29.png) 
+![](../../.gitbook/assets/image%20%2831%29.png) ![](../../.gitbook/assets/bande-cyclable-conforme%20%283%29.jpeg) 
 {% endhint %}
 
 {% hint style="info" %}
@@ -230,7 +230,7 @@ Les pistes cyclables sont signalées par du marquage au sol et/ou par des pannea
 {% hint style="success" %}
   **Aménagement conforme** 
 
- ![](../../.gitbook/assets/p1100040_0.jpg) 
+ ![](../../.gitbook/assets/piste-cyclable-conforme.jpeg) ![](../../.gitbook/assets/piste-cyclable-conforme2.jpeg) 
 {% endhint %}
 
 {% hint style="danger" %}
