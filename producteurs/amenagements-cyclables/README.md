@@ -29,7 +29,7 @@ Ces aménagements ne sont pas tous réglementaires et ont pour objectif de décr
 * d'aménagements non conformes à la définition ;
 * des signalétiques associées à l'aménagement.
 
-Certains aménagements, dont les aménagements non réglementaires, ne contiennent pas toutes ces illustrations. 
+Certains aménagements, dont les aménagements non réglementaires, ne contiennent pas toutes ces illustrations.
 
 Ces aménagements ont été définis grâce aux définitions et illustrations : 
 
@@ -38,6 +38,7 @@ Ces aménagements ont été définis grâce aux définitions et illustrations :
 * de l'Association Droit au Vélo \([ADAV](https://droitauvelo.org/)\) ;
 * de l'association [Vélo & Territoires ](https://www.velo-territoires.org/);
 * de[ France Vélo Tourisme](https://www.francevelotourisme.com/conseils/preparer-mon-voyage-a-velo/reseau-cyclable-france), 
+* de l'[Institut National de des Etudes Economiques](https://www.insee.fr/fr/accueil) \(INSEE\) 
 * d'Emmanuel Roche, Grand Chambéry
 * de Michael Häusle, [SIOCA](https://www.sioca.fr)
 
@@ -387,7 +388,14 @@ Les rues dont la vitesse maximale autorisée est de 30 km/h ou moins ont toutes 
  ![](../../.gitbook/assets/image%20%2862%29.png)
 {% endhint %}
 
+Nous vous invitons à vous rendre sur la page de l'[Institut National de des Etudes Economiques](https://www.insee.fr/fr/accueil) \(INSEE\) pour avoir les définitions des valeurs suivantes : 
 
+* [En agglomération](https://www.insee.fr/fr/metadonnees/definition/c1501#:~:text=La%20notion%20d'unit%C3%A9%20urbaine,et%20le%20nombre%20d'habitants.&text=Si%20l'unit%C3%A9%20urbaine%20s,elle%20est%20d%C3%A9nomm%C3%A9e%20agglom%C3%A9ration%20multicommunale.)
+* [Hors agglomération](https://www.insee.fr/fr/metadonnees/definition/c1501#:~:text=Si%20l'unit%C3%A9%20urbaine%20s,elle%20est%20d%C3%A9nomm%C3%A9e%20agglom%C3%A9ration%20multicommunale.&text=Enfin%2C%20on%20d%C3%A9signe%20par%20%C2%AB%20commune,affect%C3%A9es%20%C3%A0%20une%20unit%C3%A9%20urbaine.) 
+
+
+
+Si vous avez des questions, n'hésitez pas à nous contacter à l'adresse suivante : 
 
 ### 
 
