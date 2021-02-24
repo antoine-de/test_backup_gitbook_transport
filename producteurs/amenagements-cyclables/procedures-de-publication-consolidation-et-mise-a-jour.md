@@ -12,10 +12,13 @@ Les producteurs pourront saisir leurs données sur :
 
 Pour la publication des données, les producteurs pourront :
 
-* publier directement sur [data.gouv.fr ](https://www.data.gouv.fr/fr/);
+* publier directement sur [data.gouv.fr ](https://www.data.gouv.fr/fr/)
+
+Pour publier sur [data.gouv.fr](https://www.data.gouv.fr/fr/), vous aurez à créer un [compte personnel](https://doc.data.gouv.fr/gestion-du-compte/creer-un-compte/) puis un [compte pour votre organisation](https://doc.data.gouv.fr/organisations/creer-une-organisation/). Vous pourrez ensuite publier des jeux de données à travers votre compte organisation. 
+
 * déléguer la publication des données à Vélo & Territoires si les données ont été saisie sur leur outil. 
 
-Nous préconisons aux producteurs de données de publier leurs fichiers avec la règle de nommage suivante : amenagementcyclable\_nom\_AAAAMMJJ.geojson avec nom étant le nom de la collectivité productrice des données, par exemple AménagementCyclable\_Ain\_20191013.geojson
+Nous préconisons aux producteurs de données de publier leurs fichiers avec la règle de nommage suivante : amenagementcyclable\_nom.geojson avec nom étant le nom de la collectivité productrice des données, par exemple AménagementCyclable\_Ain.geojson
 
 ### Consolidation 
 
