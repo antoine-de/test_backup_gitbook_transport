@@ -27,6 +27,7 @@
   * [Référencement de votre réseau sur Google Maps](producteurs/operateurs-de-transport-regulier-de-personnes/referencement-de-votre-reseau-sur-google-maps.md)
   * [Publier des données temps réel de lignes régulières](producteurs/operateurs-de-transport-regulier-de-personnes/temps-reel-des-transports-en-commun.md)
 * [Documentation sur les aménagements cyclables](producteurs/amenagements-cyclables/README.md)
+  * [Contribution au schéma sur les aménagements cyclables](producteurs/amenagements-cyclables/contribution-au-schema-sur-les-amenagements-cyclables.md)
   * [Foire à questions](producteurs/amenagements-cyclables/foire-a-questions.md)
   * [Cadre juridique](producteurs/amenagements-cyclables/cadre-juridique.md)
   * [Finalité](producteurs/amenagements-cyclables/finalite.md)
