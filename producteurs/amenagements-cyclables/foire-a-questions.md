@@ -221,7 +221,7 @@ Toutes les versions du schéma sur les aménagements cyclable sont donc sauvegar
 
 ![](../../.gitbook/assets/image%20%2899%29.png)
 
-Nous recommandons d'utiliser GitHub au maximum pour poser des questions au sujet du schéma, remonter des difficultés rencontrées et proposer des améliorations du schéma `[lien vers guide de contribution]` afin que l'ensemble de la communauté puisse en tirer profit. Les équipes de [transport.data.gouv.fr ](https://transport.data.gouv.fr/)et de Vélo & Territoires vous répondront.
+Nous recommandons d'utiliser GitHub au maximum pour poser des questions au sujet du schéma, remonter des difficultés rencontrées et[ proposer des améliorations du schéma](https://doc.transport.data.gouv.fr/producteurs/amenagements-cyclables/contribution-au-schema-sur-les-amenagements-cyclables) afin que l'ensemble de la communauté puisse en tirer profit. Les équipes de [transport.data.gouv.fr ](https://transport.data.gouv.fr/)et de Vélo & Territoires vous répondront.
 
 ## Licence 
 
