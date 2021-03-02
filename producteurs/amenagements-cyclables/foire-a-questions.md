@@ -32,23 +32,27 @@ Non, il s'agit de deux codes de 5 chiffres mais qui ne sont pas identiques. Cont
 
 ### Aménagements spécifiques
 
-#### Un aménagement en site propre est il considéré comme une voirie à part entière et l'axe de numérisation n'est donc pas nécessairement la chaussée voisine ?
+#### Un aménagement en site propre est-il considéré comme une voirie à part entière, et dans ce cas, quel axe de numérisation utiliser ?
 
-Un aménagement en site est effectivement considéré comme une voirie à part entière. Nous vous recommandons de numériser les aménagements suivants sur leur axe propre et non sur l'axe de la voirie adjacente.
+Le schéma ne fait pas de distinction entre site propre et site partagé. Il prévoit que les aménagements qui jouxtent une voirie de circulation soient numérisés sur l'axe de cette voirie, et non sur leur axe propre. Toutefois, il n'existe pas toujours une voirie adjacente, ou cette voirie peut parfois être séparée par un terre-plein plus ou moins large. Dans ces cas là il est recommandé de numériser l'aménagement sur son axe propre. Cela peut classiquement concerner :
 
 - Piste cyclable  
 - Voie verte  
 - Aménagement mixte piéton/vélo hors voie verte  
 - Autre
 
-Pour ces même aménagements en site propre et d'autres aménagements comme  
+#### Pour certains types d'aménagement, la notion de droite et de gauche n'a pas de sens, comment gérer les attributs de ces aménagements ?
+
+Pour les aménagements sans voirie de circulation adjacente, et ceux dont le concept n'est pas déclinable en droite et gauche, cette notion de positionnement par rapport à la voirie n’est effectivement pas exploitable. Pour ceux là, il est donc recommandé de n'utiliser que la série de champs réservée à l'aménagement droit. Pour l'aménagement de gauche il reste toutefois à renseigner le champs insee\_com\_g \(qui peut être différent de insee\_com\_d si l'aménagement est à cheval sur une limite communale\), et choisir AUCUN comme type d'aménagement de gauche. \(champ ame\_g\).  
+Cela concerne :  
+  
+- Piste cyclable  
+- Voie verte  
+- Aménagement mixte piéton/vélo hors voie verte  
 - Chaussée à voie centrale banalisée  
 - Vélorue  
 - Accotement revêtu hors CVCB  
-la notion de droite et gauche n’a pas de sens. Pour ces aménagements nous vous recommandons d'utiliser uniquement la série de champs réservés à l'aménagement droit. Dans l'aménagement de gauche il resterait  à saisir les deux champs obligatoires : 
-
-- insee\_com\_g : le même que insee\_com\_d  
-- ame\_g : aucun
+- Autre
 
 #### Les territoires qui localisent précisément leur aménagement, comme une piste cyclable à côté de la chaussée, et non au centre de celle-ci; comment peuvent-ils diffuser leur donnée dans le format proposé ?
 
