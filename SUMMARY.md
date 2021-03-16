@@ -32,6 +32,7 @@
   * [Procédures de publication, consolidation et mise à jour](producteurs/amenagements-cyclables/procedures-de-publication-consolidation-et-mise-a-jour.md)
   * [Foire A Questions](producteurs/amenagements-cyclables/foire-a-questions.md)
   * [Contribution au schéma sur les aménagements cyclables](producteurs/amenagements-cyclables/contribution-au-schema-sur-les-amenagements-cyclables.md)
+  * [Guide de numérisation](producteurs/amenagements-cyclables/guide-de-numerisation.md)
 * [Infrastructures de recharge de véhicules électriques \(IRVE\)](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve.md)
 * [Points de rencontre de covoiturage](producteurs/points-de-rencontre-de-covoiturage.md)
 * [Lieux de stationnement](producteurs/lieux-de-stationnement.md)
