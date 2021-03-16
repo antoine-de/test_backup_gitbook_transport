@@ -102,6 +102,10 @@ La manière la plus simple pour une petite collectivité sans SIG est d'utiliser
 
 En complément du schéma de données, transport.data.gouv.fr a créé deux bases de données nationales des aménagements cyclables. Une première est effectivement alimentée par les jeux de données publiés en open data par les collectivité \(y compris celles qui utilisent le WebSIG de Vélo & Territoires pour la numérisation de leurs infrastructures\). La seconde reprendra la donnée présente dans OSM. A terme il est prévu de consolider ces deux jeux de données au sein d'une 3ème base unifiée. Dès lors, tout acteur même privé ou associatif peut contribuer à la base nationale, en contribuant à OSM.
 
+#### Dans notre système d’information actuel, nous numérisons chaque aménagement sur son axe propre. Est-ce compatible avec le Schéma de données ?
+
+Le choix de l’axe de numérisation est une question qui a longuement fait débat lors de la construction du schéma, entre les partisans de la solution la plus simple \(numérisation des aménagements sur l’axe de la chaussée de circulation\) et ceux favorables à la numérisation de chaque aménagement sur son axe propre. La première solution est celle qui a finalement été retenue. En cas d’aménagement numérisé sur son axe propre, il est toutefois possible d’utiliser le schéma de données. La distinction droite est gauche n’est dans ce cas plus utile puisque chaque aménagement a son propre objet géométrique. Le sens de numérisation doit correspondre au sens de circulation, et la description de l’aménagement sera saisie dans le bloc de données correspondant à l’aménagement de droite \(champs : ame\_d, largeur\_d, etc.\). S’agissant de champs obligatoires, le type d’aménagement de gauche devra comporter la valeur AUCUN et le code INSEE de gauche devra être rempli.  Pour plus de détail, se référer à la Notice de numérisation terrain.
+
 ## Itinéraires 
 
 ### Intégration des itinéraires 
