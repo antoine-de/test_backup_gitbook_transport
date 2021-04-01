@@ -1,6 +1,6 @@
 ---
 description: >-
-  Les facilitateurs désignent l'ensemble des acteurs qui nous accompagnent dans
+  Les facilitateurs désignent l'ensemble des acteurs qui nous accompagne dans
   l'ouverture de données mobilité. Cet accompagnement prend plusieurs formes.
 ---
 
