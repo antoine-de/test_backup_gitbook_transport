@@ -24,7 +24,7 @@ description: >-
 
 ## Accompagnement dans l'élaboration de schéma de données 
 
-### Vélo & Territoires 
+### [Vélo & Territoires ](https://www.velo-territoires.org/)
 
 [Schéma national d'aménagements cyclables ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)  
 [Schéma national de comptage vélo](https://docs.google.com/spreadsheets/d/18aAUucg5FGlvXug_bynrY7Kr_dMGUS6Z85xsJohhnLE/edit#gid=258782490) \[ En cours d'élaboration \]
