@@ -33,16 +33,6 @@ description: >-
 
 ## Accompagnement dans l'ouverture des données mobilité
 
-### [Geovelo](https://www.geovelo.fr/)
-
-**Base nationale des aménagements cyclables - Base consolidée d'OpenStreetMap \[ en cours d'élaboration \]**
-
- 
-
-![](../.gitbook/assets/logo-vert-1-1-4-.png)
-
-
-
 ### [**Zenbus**](https://zenbus.fr/)\*\*\*\*
 
 \*\*\*\*[**Données temps-réel**](https://transport.data.gouv.fr/datasets?type=public-transit&filter=has_realtime)\*\*\*\*
@@ -91,6 +81,12 @@ description: >-
  [**Base nationale des lieux de covoiturage** ](https://transport.data.gouv.fr/datasets/base-nationale-des-lieux-de-covoiturage/)\*\*\*\*
 
 ![](../.gitbook/assets/vauto_log_cq-1.jpg)
+
+### [Geovelo](https://www.geovelo.fr/)
+
+**Base nationale des aménagements cyclables - Base consolidée d'OpenStreetMap \[ en cours d'élaboration \]**
+
+![](../.gitbook/assets/logo-vert-1-1-4-.png)
 
 
 
