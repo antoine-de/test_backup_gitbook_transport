@@ -100,8 +100,6 @@ description: >-
 
 
 
-
-
 {% hint style="info" %}
 Vous voulez rejoindre notre communauté de facilitateurs ? Contactez nous à l'adresse  [contact@transport.beta.gouv.fr](mailto:contact@transport.beta.gouv.fr)
 
