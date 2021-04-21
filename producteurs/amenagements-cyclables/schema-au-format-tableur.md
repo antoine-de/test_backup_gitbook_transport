@@ -34,7 +34,7 @@ Le WGS84 est le système géodésique attendu.
       <td style="text-align:left">id_local</td>
       <td style="text-align:left">identifant local de l&apos;am&#xE9;nagement</td>
       <td style="text-align:left">cha&#xEE;ne de caract&#xE8;res</td>
-      <td style="text-align:left">valeur optionnelle</td>
+      <td style="text-align:left">valeur obligatoire</td>
     </tr>
     <tr>
       <td style="text-align:left">reseau_loc</td>
