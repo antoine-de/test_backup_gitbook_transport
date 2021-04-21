@@ -5,7 +5,7 @@ description: >-
   cyclables a été publié.
 ---
 
-# Foire A Questions
+# Foire Aux Questions
 
 Cette foire à question a été élaborée à partir des questions qui ont été posées lors de la session Question/Réponses du Webinaire de Vélo & Territoires et celles posées sur le [GitHub dédié au schéma national des aménagements cyclables de transport.data.gouv.fr.](https://github.com/etalab/schema-amenagements-cyclables) Elle a pour objectif de répondre aux questions les plus couramment posées, depuis la publication du [schéma national des aménagements cyclables](https://github.com/etalab/schema-amenagements-cyclables), afin de faciliter la compréhension et la prise en main de ce schéma.   
 Elle est classé par thématique :   
