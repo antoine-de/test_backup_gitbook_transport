@@ -228,7 +228,7 @@ Le WGS84 est le système géodésique attendu.
     </tr>
     <tr>
       <td style="text-align:left">lumiere</td>
-      <td style="text-align:left">bool&#xE9;en</td>
+      <td style="text-align:left">am&#xE9;nagement &#xE9;clair&#xE9;</td>
       <td style="text-align:left">cha&#xEE;ne de caract&#xE8;res</td>
       <td style="text-align:left">
         <p>valeur optionnelle</p>
