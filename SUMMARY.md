@@ -68,6 +68,7 @@
   * [06/11/2017 - Rencontre publique licences de réutilisation \#2](documentation/liste-des-rencontres-publiques/licences-2.md)
   * [09/10/2017 - Rencontre publique licences de réutilisation \#1](documentation/liste-des-rencontres-publiques/licences-1.md)
   * [28/08/2020 Transports personnels - Autopartage](documentation/liste-des-rencontres-publiques/28-08-2020-vehicules-en-partage-2.md)
+  * [23/04/2021 - Comptage vélo \#1](documentation/liste-des-rencontres-publiques/23-04-2021-comptage-velo-1.md)
 * [Ressources](documentation/ressources.md)
 
 ## Foire Aux Questions <a id="foire-aux-questions-1"></a>
