@@ -49,10 +49,7 @@ Cela concerne :
 - Piste cyclable  
 - Voie verte  
 - Aménagement mixte piéton/vélo hors voie verte  
-- Chaussée à voie centrale banalisée  
-- Vélorue  
-- Accotement revêtu hors CVCB  
-- Autre
+- Vélorue
 
 #### Les territoires qui localisent précisément leur aménagement, comme une piste cyclable à côté de la chaussée, et non au centre de celle-ci; comment peuvent-ils diffuser leur donnée dans le format proposé ?
 
