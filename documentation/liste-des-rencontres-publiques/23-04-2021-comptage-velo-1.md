@@ -14,9 +14,9 @@ Adeline Richer de Forges ****\(Metrocount\), _C. Gebhart_ \(Tagmaster\), Catheri
 
 ###  Associations, instituts autres : 
 
-Antoine Laporte Weywada \(Géovelo\), Mathias Vadot \(Droit au vélo\), Dominique Riou \(Institut Paris Région\),  Jean Christophe-Becquet \(Apitux\), Ludovic Archambeault \(Vélocité 86\), Laure Rigaud-Minet \(Voies Navigables de France\), Romain Ville-Glasauer \(Inddigo\)   
+Antoine Laporte Weywada \(Géovelo\), Mathias Vadot \(Droit au vélo\), Dominique Riou \(Institut Paris Région\),  Jean Christophe-Becquet \(Apitux\), Ludovic Archambeault \(Vélocité 86\), Laure Rigaud-Minet \(Voies Navigables de France\), Romain Ville-Glasauer \(Inddigo\), Guillaume Lucas \(Inddigo\)   
   
-_G Lucas, Sébastien Cart-Lamy, Fichet,_
+_Sébastien Cart-Lamy, Fichet,_
 
   
 Cet atelier a été co-animé avec ****Stéphanie Mangin ****de [Vélo & Territoires](https://www.velo-territoires.org/). 
