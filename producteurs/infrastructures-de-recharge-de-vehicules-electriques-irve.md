@@ -18,7 +18,7 @@ Plusieurs solutions existent pour générer ce fichier CSV.
 
 ### **Utilisation de notre outil d'aide à la saisie**
 
-Pour faciliter le remplissage des données, Etalab met à disposition [un générateur CSV](https://csv-gg.etalab.studio/?schema=etalab%2Fschema-irve) conforme au schéma de données, vous permettant de remplir les différents champs demandés. Cet outil vous permet de vous assurer que les données que vous remplissez sont au bon format.
+Pour faciliter le remplissage des données, Etalab met à disposition [un générateur CSV](https://publier.etalab.studio/select?schema=etalab%2Fschema-irve) conforme au schéma de données, vous permettant de remplir les différents champs demandés. Cet outil vous permet de vous assurer que les données que vous remplissez sont au bon format.
 
 Une fois l'ensemble de vos données remplies, téléchargez le fichier de données au format CSV sur votre ordinateur, puis référez vous aux instructions plus bas pour le déposer sur data.gouv.fr.
 
