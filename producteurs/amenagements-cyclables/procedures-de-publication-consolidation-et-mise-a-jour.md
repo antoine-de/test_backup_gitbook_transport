@@ -8,7 +8,9 @@ Les producteurs pourront saisir leurs données sur :
 
 * des outils internes ; 
 * l'outil développé par Vélo & Territoires ;
-* OpenStreetMap \(OSM\).
+* OpenStreetMap \(OSM\) ; 
+
+Géovélo a également mis en place une conversion des données sur les aménagements cyclables vers le s[chéma national ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)pour leurs clients. 
 
 Pour la publication des données, les producteurs pourront :
 
@@ -16,7 +18,12 @@ Pour la publication des données, les producteurs pourront :
 
 Pour publier sur [data.gouv.fr](https://www.data.gouv.fr/fr/), vous aurez à créer un [compte personnel](https://doc.data.gouv.fr/gestion-du-compte/creer-un-compte/) puis un [compte pour votre organisation](https://doc.data.gouv.fr/organisations/creer-une-organisation/). Vous pourrez ensuite publier des jeux de données à travers votre compte organisation. 
 
-* déléguer la publication des données à Vélo & Territoires si les données ont été saisie sur leur outil. 
+* déléguer la publication des données à Vélo & Territoires si les données ont été saisie sur leur outil 
+* déléguer la publication des données à Géovélo
+
+Vous trouverez un schéma résumant les différents modes de production et de publication ici édité par la Direction Départementale des Territoires et de la Mer \(DDTM\) des Pyrénées-Atlantiques : 
+
+![](../../.gitbook/assets/schema-de-saisie-des-amenagements-cyclablesv3.png)
 
 Nous préconisons aux producteurs de données de publier leurs fichiers avec la règle de nommage suivante : amenagementcyclable\_nom.geojson avec nom étant le nom de la collectivité productrice des données, par exemple AménagementCyclable\_Ain.geojson
 
