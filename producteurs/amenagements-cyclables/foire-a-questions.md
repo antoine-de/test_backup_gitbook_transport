@@ -192,8 +192,8 @@ Ce schéma a été produit avec des producteurs mais également des réutilisate
 Pour permettre la mise en œuvre du schéma par toutes les collectivités qui le souhaitent, quels que soient leurs moyens, plusieurs outils ont été mis en place :
 
 * [Le WebSIG de Vélo & Territoire](https://on3v.veremes.net/vmap/?mode_id=vmap&map_id=31&token=publictoken#) qui permet à chacun, sans compétence particulière en géomatique/SIG, de numériser ou mettre à jour des données grâce à une interface cartographique simple. 
-* Un gabarit au format shapefile pour QGIS, plus adaptés pour les collectivités travaillant déjà sous SIG, intégrant un formulaire de saisie des attributs.
-* Un script SQL pour la création d’une base de données Postgres/PostGIS « vierge », structurée au format du schéma \(incluant la table des aménagements cyclables comprenant l’attribut géographiques, mais aussi les tables des valeurs possibles des champs concernés\), ainsi que le modèle conceptuel de données.
+* Un [gabarit au format shapefile pour QGIS](https://github.com/etalab/schema-amenagements-cyclables/blob/master/tools/AC_TEMPLATE_SHP_QGIS_v0.3.0.zip), plus adaptés pour les collectivités travaillant déjà sous SIG, intégrant un formulaire de saisie des attributs.
+* Un[ script SQL](https://github.com/etalab/schema-amenagements-cyclables/blob/master/tools/AC_SQL_POSTGIS_v0.3.0.zip) pour la création d’une base de données Postgres/PostGIS « vierge », structurée au format du schéma \(incluant la table des aménagements cyclables comprenant l’attribut géographiques, mais aussi les tables des valeurs possibles des champs concernés\), ainsi que le modèle conceptuel de données.
 
   L’ensemble de ces ressources est disponible sur le dépôt GitHub du schéma \([https://github.com/etalab/schema-amenagements-cyclables](https://github.com/etalab/schema-amenagements-cyclables)\). On y trouve également un guide de numérisation.
 
