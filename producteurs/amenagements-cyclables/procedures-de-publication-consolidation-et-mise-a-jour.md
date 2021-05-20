@@ -27,7 +27,7 @@ Vous trouverez un schéma résumant les différents modes de production et de pu
 
 Nous préconisons aux producteurs de données de publier leurs fichiers avec la règle de nommage suivante : amenagementcyclable\_nom.geojson avec nom étant le nom de la collectivité productrice des données, par exemple AménagementCyclable\_Ain.geojson
 
-Nous encourageons également les producteurs à spécifier que le fichier déposé repose sur le schéma d'aménagements cyclables dans la section "schéma" \(liste déroulante\) et que le fichier est au format GeoJSON dans la section "fichier" du dépôt de leur espace administrateur [data.gouv.fr](https://www.data.gouv.fr/fr/). 
+Nous encourageons également les producteurs à spécifier que le fichier déposé repose sur le schéma d'aménagements cyclables dans la section "schéma" \(liste déroulante\) et que le fichier est au format GeoJSON dans la section "format" lorsqu'ils publieront leurs données à partir de leur espace administrateur [data.gouv.fr](https://www.data.gouv.fr/fr/). 
 
 ![](../../.gitbook/assets/image%20%28124%29.png)
 
