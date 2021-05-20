@@ -47,10 +47,12 @@
 ## Documentation
 
 * [Rencontres publiques](documentation/liste-des-rencontres-publiques/README.md)
+  * [23/04/2021 - Comptage vélo \#1](documentation/liste-des-rencontres-publiques/23-04-2021-comptage-velo-1.md)
   * [08/04/2021 - Zones à Faibles Emissions \#1](documentation/liste-des-rencontres-publiques/08-04-2021-zones-a-faibles-emissions-1.md)
   * [24/02/2021 - Stationnement cyclable \#2](documentation/liste-des-rencontres-publiques/24-02-2021-stationnement-cyclable-2.md)
   * [25/11/2020 - Stationnement cyclable \#1](documentation/liste-des-rencontres-publiques/25-11-2020-stationnement-cyclable-1.md)
   * [12/11/2020 - Transports personnels, Autopartage \#2](documentation/liste-des-rencontres-publiques/12-11-2020-transports-personnels-autopartage-2.md)
+  * [28/08/2020 - Transports personnels, Autopartage \#1](documentation/liste-des-rencontres-publiques/28-08-2020-vehicules-en-partage-2.md)
   * [27/08/2020 - Infrastructures cyclables \#3](documentation/liste-des-rencontres-publiques/27-08-2020-infrastructures-cyclables-3.md)
   * [08/07/2020 - Infrastructures cyclables \#2](documentation/liste-des-rencontres-publiques/08-07-2020-infrastructures-cyclables-2.md)
   * [19/05/2020 - Données tarifaires des transports en commun](documentation/liste-des-rencontres-publiques/19-05-2020-donnees-tarifaires-des-transports-en-commun.md)
@@ -67,8 +69,6 @@
   * [10/04/2019 - Tour de France \(Rennes\)](documentation/liste-des-rencontres-publiques/tour-de-france.md)
   * [06/11/2017 - Rencontre publique licences de réutilisation \#2](documentation/liste-des-rencontres-publiques/licences-2.md)
   * [09/10/2017 - Rencontre publique licences de réutilisation \#1](documentation/liste-des-rencontres-publiques/licences-1.md)
-  * [28/08/2020 Transports personnels - Autopartage](documentation/liste-des-rencontres-publiques/28-08-2020-vehicules-en-partage-2.md)
-  * [23/04/2021 - Comptage vélo \#1](documentation/liste-des-rencontres-publiques/23-04-2021-comptage-velo-1.md)
 * [Ressources](documentation/ressources.md)
 
 ## Foire Aux Questions <a id="foire-aux-questions-1"></a>
