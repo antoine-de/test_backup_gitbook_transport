@@ -12,13 +12,16 @@ Pour mettre à jour des données, il est important de ne pas créer un nouveau j
 
 ### Procédure pas à pas pour mettre à jour
 
-![](../.gitbook/assets/capture-de-cran-2019-07-23-a-14.16.32%20%281%29.png)
+![](../.gitbook/assets/screenshot-from-2021-05-20-09-12-59.png)
 
-1. Allez sur transport.data.gouv.fr. Regardez en haut à droite de la page : si vous n'êtes pas déjà identifié.e, faites-le en cliquant sur _S'identifier_.
-2. Sur transport.data.gouv.fr, tout en haut, cliquez sur _Publier ou mettre à jour des données_, puis _Mettre à jour un jeu de données existant_.
-3. La liste des jeux de données que vous avez publiés s'affiche : cliquez sur _Sélectionner ce jeu de données ressource_ sous le jeu de données concerné. En page suivante, sélectionnez la ressource concernée.
-4. Choisissez entre "_charger un fichier manuellement_" et "_indiquer une URL_" \(adresse internet qui pointe vers vos données\).
-5. S'il s'agit d'un fichier GTFS, mentionnez GTFS dans le titre du fichier
+1. Allez sur [https://transport.data.gouv.fr/infos\_producteurs](https://transport.data.gouv.fr/infos_producteurs). Regardez en haut à droite de la page : si vous n'êtes pas déjà identifié.e, faites-le en cliquant sur _S'identifier_.
+2. Cliquez sur "Accédez à votre espace producteur"
+3. Dans l'encart "Mettre à jour un jeu de données", trouvez parmi la liste de vos jeux de données celui que vous souhaitez mettre à jour.
+4. Sous ce jeu de données, cliquez sur "Modifier une ressource"
+5. Choisissez la ressource à modifier
+6. Modifiez la ressource. Pour une modification "simple" de l'url de la ressource, l'option 1 suffit. Si vous avez d'autres modifications à faire, l'option 2 vous renvoie vers data.gouv.fr, où vous avez plus de possibilités pour modifier la ressource. **Le choix de l'option n'a pas d'incidence : les modifications sur data.gouv.fr seront automatiquement prises en compte par transport.data.gouv.fr d'ici 24h.**
+
+![](../.gitbook/assets/screenshot-from-2021-05-20-09-21-03.png)
 
 ### Mettre à jour ou publier une nouvelle ressource ?
 
