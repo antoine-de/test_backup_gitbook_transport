@@ -58,13 +58,13 @@ Une **condition particulière d’utilisation** précise le périmètre du « pa
 
 
 
-Plus de 300 flux ou jeux de données sont d’ores-et-déjà disponibles sur transport.data.gouv.fr, accessibles librement, sans identification préalable. **Seule leur éventuelle réutilisation relève de ce cadre juridique harmonisé**. Les réutilisateurs peuvent cependant, de manière volontaire, mettre en avant leur réutilisation sur la plateforme.
+Plus de 350 flux ou jeux de données sont d’ores-et-déjà disponibles sur transport.data.gouv.fr, accessibles librement, sans identification préalable. **Seule leur éventuelle réutilisation relève de ce cadre juridique harmonisé**. Les réutilisateurs peuvent cependant, de manière volontaire, mettre en avant leur réutilisation sur la plateforme.
 
 Parmi ces données, on trouve :
 
-* des points d’arrêts, lignes, tracés, horaires théoriques des transports publics de 210 autorités organisatrices de mobilité \(2\), 12 régions et 1 entreprise d’autocars de longue-distance ;
-* des flux en temps réel \(26 agglomérations déjà disponibles\) ;
-* des flux de disponibilité et de localisation des stations de vélos libre-service \(17 agglomérations\) ;
+* des points d’arrêts, lignes, tracés, horaires théoriques des transports publics de 228 autorités organisatrices de mobilité \(2\), 15 régions et 6 entreprise d’autocars de longue-distance ;
+* des flux en temps réel \(49 agglomérations déjà disponibles et une région\) ;
+* des flux de disponibilité et de localisation des stations de vélos libre-service \(20 agglomérations\) ;
 * des localisations et descriptions d’aires de covoiturage ;
 * des localisations et descriptions de bornes de recharge de véhicule électrique ;
 * des localisations et descriptions de parkings de stationnement hors voirie. 
