@@ -32,21 +32,21 @@ Le ministère de la Transition écologique et solidaire \(MTES - DGITM\) s'est a
 La réalisation du Point d’accès national aux données est l’une des actions menées dans le cadre du Comité stratégique « données - MaaS » mis en place par le ministère des transports. L’objectif est de mobiliser les acteurs, pour assurer la réussite de l’ouverture des données et faciliter la réalisation des projets Mobility as a Service \(MaaS\), combinant l’information et la billettique multimodales.
 {% endhint %}
 
-### Les données disponibles sur le Point d'accès national
+### Les données disponibles sur le Point d'Accès National
 
 L’ensemble des données utiles à l’information voyageur au sens large sont concernées par la mise à disposition via le Point d’Accès National, et ce pour tous les modes de transport, qu’ils soient publics ou privés. La liste des données statiques et dynamiques est disponible en annexe du [règlement \(UE\) n° 2017/1926](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32017R1926&from=EN).
 
-En décembre 2020, le PAN héberge les données d’horaires théoriques de transport en commun de 226 autorités organisatrices de la mobilité sur 335 et 14 régions sur 18, couvrant 88% de la population bénéficiant d’un réseau de transport local :
+En mai 2021, le PAN héberge les données d’horaires théoriques de transport en commun de 228 autorités organisatrices de la mobilité sur 335 et 15 régions sur 18, couvrant 89% de la population bénéficiant d’un réseau de transport local :
 
-![Etat de l&apos;open data  : R&#xE9;seaux urbains - horaires th&#xE9;oriques \(D&#xE9;cembre 2020\)](.gitbook/assets/image%20%2872%29.png)
+![Statistiques d&apos;ouverture des donn&#xE9;es des transports publics](.gitbook/assets/image%20%28125%29.png)
 
 L’équipe de transport.data.gouv.fr référence également d’autres données de mobilité :
 
-* **Lignes régulières de transports publics \(bus, tram, métros\)** – **temps-réel** : 37 agglomérations ;
-* **Aires de covoiturage** : 2.416 aires dans 78 départements ;
-* **Parkings hors-voirie :** 744 parkings dans 17 collectivités ;
+* **Lignes régulières de transports publics \(bus, tram, métros\)** – **temps-réel** : 49 agglomérations et 1 région ;
+* **Aires de covoiturage** : 8119 aires dans 87 départements ;
+* **Parkings hors-voirie :** 780 parkings dans 18 collectivités ;
 * **Bornes de recharge de véhicules électriques** : 10.600 à travers la France ;
-* **Vélos en libre-service** : 19 jeux de données ;
+* **Vélos en libre-service** : 20 jeux de données ;
 * **Bus longue-distance** : 6 jeux de données.
 
 [ &gt;&gt; Toutes les statistiques du déploiement à jour ici](https://transport.data.gouv.fr/stats).
