@@ -69,6 +69,7 @@
   * [10/04/2019 - Tour de France \(Rennes\)](documentation/liste-des-rencontres-publiques/tour-de-france.md)
   * [06/11/2017 - Rencontre publique licences de réutilisation \#2](documentation/liste-des-rencontres-publiques/licences-2.md)
   * [09/10/2017 - Rencontre publique licences de réutilisation \#1](documentation/liste-des-rencontres-publiques/licences-1.md)
+* [28/05/2021 - Transports personnels, Autopartage \#3](documentation/28-05-2021-transports-personnels-autopartage-3.md)
 * [Ressources](documentation/ressources.md)
 
 ## Foire Aux Questions <a id="foire-aux-questions-1"></a>
