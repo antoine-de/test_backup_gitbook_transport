@@ -66,10 +66,6 @@ Parfois appelés "pince-roues", les rateliers sont attachés aux murs ou fixés 
 
 ![](../../.gitbook/assets/image%20%28150%29.png)![](../../.gitbook/assets/image%20%28145%29.png)![](../../.gitbook/assets/image%20%28158%29.png)![](../../.gitbook/assets/image%20%28154%29.png)
 
-{% hint style="info" %}
-**Un râtelier**  
-{% endhint %}
-
 #### **RACK DOUBLE ETAGE \(**_**two\_tier**_**\)**
 
 Un support à deux niveaux, où deux bicyclettes peuvent être stockées l'une au-dessus de l'autre.
