@@ -48,7 +48,7 @@ Dans cette page de documentation nous vous présentons une photothèque des diff
 
 #### ARCEAU \(_stands_\)
 
-Une pièce de métal pliée contre laquelle vous pouvez appuyer votre vélo entier. Permet d'y fixer le cadre et une roue. Sécurité modérée. Utilisez cette étiquette pour les supports non rectangulaires également \(par exemple, les supports ronds, les supports artistiques fantaisistes, les supports longs permettant d'attacher plus de deux véhicules\).
+Pièce de métal pliée contre laquelle vous pouvez appuyer votre vélo entier. Permet d'y fixer le cadre et une roue. Sécurité modérée. Utilisez cette étiquette pour les supports non rectangulaires également \(par exemple, les supports ronds, les supports artistiques fantaisistes, les supports longs permettant d'attacher plus de deux véhicules\).
 
 ![](../../.gitbook/assets/image%20%28139%29.png)![](../../.gitbook/assets/image%20%28155%29.png)
 
@@ -94,7 +94,7 @@ A différencier du crochet qui tient le vélo en suspension
 
 #### **POTELET \(**_**bollard**_**\)**
 
-Un type spécial de borne conçu pour le verrouillage des vélos. En général, le vélo est verrouillé sur le poteau central et des "bras" empêchent les voleurs de simplement soulever le vélo par-dessus le poteau. 
+Type spécial de borne conçu pour le verrouillage des vélos. En général, le vélo est verrouillé sur le poteau central et des "bras" empêchent les voleurs de simplement soulever le vélo par-dessus le poteau. 
 
 {% hint style="warning" %}
 Ceux dont l'anneau est si grand qu'il peut être utilisé pour appuyer tout le vélo peuvent également être qualifiés de d'arceau.	
