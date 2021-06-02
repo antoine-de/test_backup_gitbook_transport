@@ -78,7 +78,7 @@ Un crochet permet d'accrocher le vélo en suspension par la roue supérieure.
 
 ![](../../.gitbook/assets/image%20%28159%29.png)![](../../.gitbook/assets/image%20%28147%29.png)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 A différencier du support guidon qui ne laisse pas le vélo en suspension
 {% endhint %}
 
@@ -88,7 +88,7 @@ Une structure métallique avec des supports où le guidon d'une bicyclette peut 
 
 	![](../../.gitbook/assets/image%20%28135%29.png)![](../../.gitbook/assets/image%20%28144%29.png)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 A différencier du crochet qui tient le vélo en suspension
 {% endhint %}
 
@@ -97,7 +97,7 @@ A différencier du crochet qui tient le vélo en suspension
 Type spécial de borne conçu pour le verrouillage des vélos. En général, le vélo est verrouillé sur le poteau central et des "bras" empêchent les voleurs de simplement soulever le vélo par-dessus le poteau. 
 
 {% hint style="warning" %}
-Ceux dont l'anneau est si grand qu'il peut être utilisé pour appuyer tout le vélo peuvent également être qualifiés de d'arceau.	
+Ceux dont l'anneau est si grand qu'il peut être utilisé pour appuyer tout le vélo peuvent également être qualifiés d'arceau.	
 {% endhint %}
 
 ![](../../.gitbook/assets/image%20%28146%29.png)![](../../.gitbook/assets/image%20%28141%29.png)
@@ -118,12 +118,32 @@ Espace dédié au stationnement sans équipement pour accrocher le vélo. Cela p
 
 Mode d'accroche possible sur l'équipement : 
 
-* Accroche cadre
-* Accroche roue
-* Accroche cadre + roue
+* Cadre
+* Roue
+* Cadre et roue
 * Sans accroche 
 
 Cette informations est très importante pour connaître le niveau de sécurisation de l'équipement. En effet la Fédération des Usagers de la Bicyclette \(FUB\) recommande de développer des équipements permettant au moins l'accroche du cadre et d'une roue. 
+
+Voici une table indicative de correspondance des mobiliers avec le type d'accroche :
+
+| Mobilier | Type d'accroche |
+| :--- | :--- |
+| Arceau | Cadre et roue |
+| Ratelier | Roue |
+| Rack double-étage | Cadre et roue |
+| Crochet | Roue |
+| Support guidon | Cadre et roue |
+| Potelet | Cadre |
+| Arceau vélo grande taille | Cadre et roue |
+| Aucun équipement | Sans accroche |
+
+### **Géométrie**
+
+Géolocalisation de l'équipement sous forme de point exprimé en longitude \(X\) et en latitude \(Y\).
+
+* Si l'équipement est accessible librement sur la chaussée ou dans un espace avec de nombreux accès, on retiendra le centre de l'ensemble de l'équipement décrit.  
+* Si l'accès de l'équipement est limité à une porte ou une entrée particulière, on peut privilégier la géolocalisation de cette entrée. 
 
 ### Capacité 
 
@@ -149,6 +169,14 @@ Capacité de l'équipement de stationnement pouvant être adaptée aux vélos de
 
 ![](../../.gitbook/assets/image%20%28154%29.png)0 places \(un pince-roue ne permet pas de stationner un vélo de grande taille\)
 
+### Identifiants
+
+Il est attendu des producteurs de données de transmettre un identifiant unique par équipement de stationnement. Dans un fichier local il ne faut donc pas répéter plusieurs fois la même chaîne de caractères.
+
+Si l'emplacement de stationnement est issu d'OpenStreetMap on indique son identifiant en le préfixant du code n s'il s'agit d'un [noeud](https://wiki.openstreetmap.org/wiki/Node), w s'il s'agit d'une [voie ](https://wiki.openstreetmap.org/wiki/Way)\(way\) et r s'il s'agit d'une [relation](https://wiki.openstreetmap.org/wiki/Relation). 
+
+Enfin transport.data.gouv.fr donnera un identifiant national unique aux emplacements de stationnement à partir des identifiants locaux et de la source garantissant l'unicité des identifiants. Cette identifiant sera composé de cette manière : codeInsee-SV- {0001}
+
 ### Surveillance
 
 L'emplacement de stationnement est -il surveillé ou non ? On choisit la valeur vraie si un système de vidéosurveillance est en place ou si un gardiennage est assuré. 
@@ -160,14 +188,6 @@ L'emplacement est-il couvert par un toit protégeant l'équipement de la pluie o
 ### Lumière
 
 L'équipement est-il éclairé la nuit par un éclairage dédié ou indirect \(éclairage urbain\) ?
-
-### Identifiants
-
-Il est attendu des producteurs de données de transmettre un identifiant unique par équipement de stationnement. Dans un fichier local il ne faut donc pas répéter plusieurs fois la même chaîne de caractères.
-
-Si l'emplacement de stationnement est issu d'OpenStreetMap on indique son identifiant en le préfixant du code n s'il s'agit d'un [noeud](https://wiki.openstreetmap.org/wiki/Node), w s'il s'agit d'une [voie ](https://wiki.openstreetmap.org/wiki/Way)\(way\) et r s'il s'agit d'une [relation](https://wiki.openstreetmap.org/wiki/Relation). 
-
-Enfin transport.data.gouv.fr donnera un identifiant national unique aux emplacements de stationnement à partir des identifiants locaux et de la source garantissant l'unicité des identifiants. Cette identifiant sera composé de cette manière : codeInsee-SV- {0001}
 
 ### Gestionnaire et propriétaire
 
