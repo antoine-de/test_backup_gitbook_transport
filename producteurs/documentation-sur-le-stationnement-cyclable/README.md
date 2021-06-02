@@ -84,7 +84,7 @@ A différencier du support guidon qui ne laisse pas le vélo en suspension
 
 **SUPPORT GUIDON \(**_**handlebar\_holder**_**\)**
 
-Une structure métallique avec des supports où le guidon d'une bicyclette peut être monté afin de garer la bicyclette. 
+Structure métallique avec des supports où le guidon d'une bicyclette peut être monté afin de garer la bicyclette. 
 
 	![](../../.gitbook/assets/image%20%28135%29.png)![](../../.gitbook/assets/image%20%28144%29.png)
 
