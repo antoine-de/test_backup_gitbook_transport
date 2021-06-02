@@ -123,20 +123,24 @@ Mode d'accroche possible sur l'équipement :
 * Cadre et roue
 * Sans accroche 
 
+{% hint style="warning" %}
 Cette informations est très importante pour connaître le niveau de sécurisation de l'équipement. En effet la Fédération des Usagers de la Bicyclette \(FUB\) recommande de développer des équipements permettant au moins l'accroche du cadre et d'une roue. 
+{% endhint %}
 
-Voici une table indicative de correspondance des mobiliers avec le type d'accroche :
+{% hint style="info" %}
+Voici une table indicative de correspondance des mobiliers avec le type d'accroche
 
-| Mobilier | Type d'accroche |
+| **Mobilier** | **Type d'accroche** |
 | :--- | :--- |
 | Arceau | Cadre et roue |
-| Ratelier | Roue |
+| Râtelier | Roue |
 | Rack double-étage | Cadre et roue |
 | Crochet | Roue |
 | Support guidon | Cadre et roue |
 | Potelet | Cadre |
 | Arceau vélo grande taille | Cadre et roue |
 | Aucun équipement | Sans accroche |
+{% endhint %}
 
 ### **Géométrie**
 
@@ -175,11 +179,11 @@ Il est attendu des producteurs de données de transmettre un identifiant unique 
 
 Si l'emplacement de stationnement est issu d'OpenStreetMap on indique son identifiant en le préfixant du code n s'il s'agit d'un [noeud](https://wiki.openstreetmap.org/wiki/Node), w s'il s'agit d'une [voie ](https://wiki.openstreetmap.org/wiki/Way)\(way\) et r s'il s'agit d'une [relation](https://wiki.openstreetmap.org/wiki/Relation). 
 
-Enfin transport.data.gouv.fr donnera un identifiant national unique aux emplacements de stationnement à partir des identifiants locaux et de la source garantissant l'unicité des identifiants. Cette identifiant sera composé de cette manière : codeInsee-SV- {0001}
+Enfin transport.data.gouv.fr donnera un identifiant national unique aux emplacements de stationnement à partir des identifiants locaux et de la source garantissant l'unicité des identifiants. Cette identifiant sera composé de cette manière : codeInsee-SV- {00001}
 
 ### Surveillance
 
-L'emplacement de stationnement est -il surveillé ou non ? On choisit la valeur vraie si un système de vidéosurveillance est en place ou si un gardiennage est assuré. 
+L'emplacement de stationnement est-il surveillé ou non ? On choisit la valeur vraie si un système de vidéosurveillance est en place ou si un gardiennage est assuré. 
 
 ### Couverture
 
