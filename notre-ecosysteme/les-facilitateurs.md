@@ -96,9 +96,15 @@ description: >-
 
 ### [Geovelo](https://www.geovelo.fr/)
 
-**Base nationale des aménagements cyclables - Base consolidée d'OpenStreetMap \[ en cours d'élaboration \]**
+**Base nationale des aménagements cyclables -** [**Base consolidée d'OpenStreetMap**](https://transport.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/)\*\*\*\*
 
 ![](../.gitbook/assets/logo-vert-1-1-4-.png)
+
+### [Geodatamine ](https://geodatamine.fr/)
+
+**Outil d'extraction des données publiées sur OpenStreetMap basé sur le** [**schéma national des aménagements cyclables** ](https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html)\*\*\*\*
+
+![](../.gitbook/assets/geodatamine_title.png)
 
 
 
