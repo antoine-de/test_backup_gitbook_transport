@@ -37,7 +37,7 @@
 * [Documentation sur le stationnement cyclable](producteurs/documentation-sur-le-stationnement-cyclable/README.md)
   * [Cadre juridique](producteurs/documentation-sur-le-stationnement-cyclable/cadre-juridique.md)
   * [Finalité](producteurs/documentation-sur-le-stationnement-cyclable/finalite.md)
-  * [Contribution au schéma sur les aménagements cyclables](producteurs/documentation-sur-le-stationnement-cyclable/contribution-au-schema-sur-les-amenagements-cyclables.md)
+  * [Contribution au schéma sur le stationnement cyclable](producteurs/documentation-sur-le-stationnement-cyclable/contribution-au-schema-sur-les-amenagements-cyclables.md)
   * [FAQ](producteurs/documentation-sur-le-stationnement-cyclable/faq.md)
 * [Infrastructures de recharge de véhicules électriques \(IRVE\)](producteurs/infrastructures-de-recharge-de-vehicules-electriques-irve.md)
 * [Points de rencontre de covoiturage](producteurs/points-de-rencontre-de-covoiturage.md)
