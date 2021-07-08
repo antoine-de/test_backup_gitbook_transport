@@ -13,7 +13,7 @@ L’accès à une meilleure information facilitera l’adoption de nouveaux mode
 Dans certains pays européens \(Royaume-Uni, Pays-Bas…\), l’ouverture des données de transport est mise en œuvre depuis plusieurs années. En France, [**transport.data.gouv.fr**](https://transport.data.gouv.fr/) **aide les acteurs de la mobilité à publier leurs données et les rend accessibles sur une plateforme unique**, ce qui facilite leur réutilisation par les services d’information sur les déplacements.
 
 {% hint style="success" %}
-L’ouverture des données de mobilité vise à favoriser le développement meilleurs services d’information numériques sur les déplacements, pour le plus grand bénéfice des usagers.
+L’ouverture des données de mobilité vise à favoriser le développement de meilleurs services d’information numériques sur les déplacements, pour le plus grand bénéfice des usagers.
 {% endhint %}
 
 ### Le cadre législatif : le règlement européen et la Loi d’Orientation des Mobilités
