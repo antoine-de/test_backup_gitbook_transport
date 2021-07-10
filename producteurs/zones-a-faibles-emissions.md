@@ -49,12 +49,222 @@ Aussi :
 
 * si sur une même commune où un arrêté précise des réglementations différentes sur plusieurs zones on utilise plusieurs lignes/objets pour décrire la ZFE
 * si les règles sont homogènes sur tout un EPCI mais que les arrêtés sont limités à chaque commune, on utilise autant de lignes/objets pour décrire chaque commune. 
+* si les règles sont différentes pour les personnes morales et les personnes physiques on décrit la réglementation dans deux lignes/objets différentes.
 
 #### Voies exceptionnelles
 
 La granularité des voies exceptionnelles est la même que les tronçons routiers de la BD Topo de l'IGN. [La documentation de la BD Topo ](https://geoservices.ign.fr/ressources_documentaires/Espace_documentaire/BASES_VECTORIELLES/BDTOPO/DC_BDTOPO_3-0.pdf)précise qu'un tronçon de routes est une _portion de voie de communication destinée aux automobiles, aux piétons, aux cycles ou aux animaux, homogène pour l'ensemble des attributs et des relations qui la concernent_.
 
 Le découpage d'une voie en tronçon est précisé dans la documentation de la BD Topo.
+
+### Attributs
+
+Les aires réglementées et les voies exceptionnelles sont décrits par les mêmes attributs. Ces attributs sont essentiellement des éléments structurés extraits de la réglementation \(véhicules dont la circulation est interdite, horaires d'application...\).
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Attribut</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Format</th>
+      <th style="text-align:left">Oblig
+        <br />atoire</th>
+      <th style="text-align:left">Exemple</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">id</td>
+      <td style="text-align:left">
+        <p><em>Si l&apos;objet est une aire reglement&#xE9;e :</em> Identifiant unique
+          de l&apos;aire r&#xE9;glement&#xE9;e. Pour construire l&apos;identifiant
+          on utilise cette formule : &apos;Code SIREN de l&apos;entit&#xE9; administrative
+          englobant la zone&apos; - ZFE - XXX.</p>
+        <p><em>Si l&apos;objet est une voie sp&#xE9;ciale : </em>Identifiant unique
+          cleabs du tron&#xE7;on routier issu de la couche TRONCON_DE_ROUTE de la
+          BD Topo produite par l&apos;IGN&quot;</p>
+      </td>
+      <td style="text-align:left">string</td>
+      <td style="text-align:left">Oui</td>
+      <td style="text-align:left">200046977-ZFE-001,
+        <br />TRONROUT0000002003832789</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">date_debut</td>
+      <td style="text-align:left">Date d&apos;entr&#xE9;e en vigueur de la r&#xE9;glementation au format
+        AAAA-MM-JJ.</td>
+      <td style="text-align:left">string</td>
+      <td style="text-align:left">Oui</td>
+      <td style="text-align:left">2019-07-01</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">date_fin</td>
+      <td style="text-align:left">Date de fin de la r&#xE9;glementation</td>
+      <td style="text-align:left">string</td>
+      <td style="text-align:left">Non</td>
+      <td style="text-align:left">2023-07-01</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">proprietaire_
+        <br />vehicule</td>
+      <td style="text-align:left">
+        <p>Nature juridique du propri&#xE9;taire du v&#xE9;hicule. Trois modalit&#xE9;s
+          possibles : PERSONNE PHYSIQUE,
+          <br />
+        </p>
+        <p>PERSONNE MORALE,
+          <br />
+        </p>
+        <p>PERSONNE PHYSIQUE OU MORALE</p>
+      </td>
+      <td style="text-align:left">string</td>
+      <td style="text-align:left">Oui</td>
+      <td style="text-align:left">PERSONNE PHYSIQUE OU MORALE</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">vp_critair</td>
+      <td style="text-align:left">V&#xE9;hicules particuliers : Vignette CRITAIR &#xE0; partir de laquelle
+        la circulation n&apos;est pas autoris&#xE9;e. Par exemple 4 signifie que
+        les v&#xE9;hicules CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autoris&#xE9;s
+        &#xE0; circuler.</td>
+      <td style="text-align:left">string</td>
+      <td style="text-align:left">Non</td>
+      <td style="text-align:left">4</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">vp_horaires</td>
+      <td style="text-align:left">V&#xE9;hicules particuliers : jours et horaires de restriction au format
+        &apos;opening hours&apos; d&apos;OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours</td>
+      <td
+      style="text-align:left">string</td>
+        <td style="text-align:left">Non</td>
+        <td style="text-align:left">Mo-Fr 08:00-20:00; PH off,
+          <br />24/7</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">vul_critair</td>
+      <td style="text-align:left">V&#xE9;hicules utilitaires l&#xE9;gers : Vignette CRITAIR &#xE0; partir
+        de laquelle la circulation n&apos;est pas autoris&#xE9;e. Par exemple 4
+        signifie que les v&#xE9;hicules CRITAIR 4, CRITAIR 5 et sans vignettes
+        ne sont pas autoris&#xE9;s &#xE0; circuler.</td>
+      <td style="text-align:left">string</td>
+      <td style="text-align:left">Non</td>
+      <td style="text-align:left">4</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">vul_horaires</td>
+      <td style="text-align:left">V&#xE9;hicules utilitaires l&#xE9;gers : jours et horaires de restriction
+        au format &apos;opening hours&apos; d&apos;OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours</td>
+      <td
+      style="text-align:left">string</td>
+        <td style="text-align:left">Non</td>
+        <td style="text-align:left">Mo-Fr 08:00-20:00; PH off,
+          <br />24/7</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">pl_critair</td>
+      <td style="text-align:left">Poids lourds : Vignette CRITAIR &#xE0; partir de laquelle la circulation
+        n&apos;est pas autoris&#xE9;e. Par exemple 4 signifie que les v&#xE9;hicules
+        CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autoris&#xE9;s &#xE0;
+        circuler.</td>
+      <td style="text-align:left">string</td>
+      <td style="text-align:left">Non</td>
+      <td style="text-align:left">4</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">pl_horaires</td>
+      <td style="text-align:left">Poids lourds : jours et horaires de restriction au format &apos;opening
+        hours&apos; d&apos;OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours</td>
+      <td
+      style="text-align:left">string</td>
+        <td style="text-align:left">Non</td>
+        <td style="text-align:left">
+          <p>Mo-Fr 08:00-20:00; PH off,</p>
+          <p>24/7</p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">autobus_autocars_critair</td>
+      <td style="text-align:left">Autobus et autocars : Vignette CRITAIR &#xE0; partir de laquelle la circulation
+        n&apos;est pas autoris&#xE9;e. Par exemple 4 signifie que les v&#xE9;hicules
+        CRITAIR 4, CRITAIR 5 et sans vignettes ne sont pas autoris&#xE9;s &#xE0;
+        circuler.</td>
+      <td style="text-align:left">string</td>
+      <td style="text-align:left">Non</td>
+      <td style="text-align:left">4</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">autobus_autocars_horaires</td>
+      <td style="text-align:left">Autobus et autocars : jours et horaires de restriction au format &apos;opening
+        hours&apos; d&apos;OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours</td>
+      <td
+      style="text-align:left">string</td>
+        <td style="text-align:left">Non</td>
+        <td style="text-align:left">
+          <p>Mo-Fr 08:00-20:00; PH off,</p>
+          <p>24/7</p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">deux_rm_critair</td>
+      <td style="text-align:left">Deux roues, tricycles et quadricycles &#xE0; moteur : Vignette CRITAIR
+        &#xE0; partir de laquelle la circulation n&apos;est pas autoris&#xE9;e.
+        Par exemple 4 signifie que les v&#xE9;hicules CRITAIR 4, CRITAIR 5 et sans
+        vignettes ne sont pas autoris&#xE9;s &#xE0; circuler.</td>
+      <td style="text-align:left">string</td>
+      <td style="text-align:left">Non</td>
+      <td style="text-align:left">4</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">deux_rm_horaires</td>
+      <td style="text-align:left">Deux roues, tricycles et quadricycles &#xE0; moteur : jours et horaires
+        de restriction au format &apos;opening hours&apos; d&apos;OpenStreetMap
+        : https://wiki.openstreetmap.org/wiki/Key:opening_hours</td>
+      <td style="text-align:left">string</td>
+      <td style="text-align:left">Non</td>
+      <td style="text-align:left">
+        <p>Mo-Fr 08:00-20:00; PH off,</p>
+        <p>24/7</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">taxi_critair</td>
+      <td style="text-align:left">Taxis : Vignette CRITAIR &#xE0; partir de laquelle la circulation n&apos;est
+        pas autoris&#xE9;e. Par exemple 4 signifie que les v&#xE9;hicules CRITAIR
+        4, CRITAIR 5 et sans vignettes ne sont pas autoris&#xE9;s &#xE0; circuler.</td>
+      <td
+      style="text-align:left">string</td>
+        <td style="text-align:left">Non</td>
+        <td style="text-align:left">4</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">taxi_horaires</td>
+      <td style="text-align:left">Taxis : jours et horaires de restriction au format &apos;opening hours&apos;
+        d&apos;OpenStreetMap : https://wiki.openstreetmap.org/wiki/Key:opening_hours</td>
+      <td
+      style="text-align:left">string</td>
+        <td style="text-align:left">Non</td>
+        <td style="text-align:left">
+          <p>Mo-Fr 08:00-20:00; PH off,</p>
+          <p>24/7</p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">url_arrete</td>
+      <td style="text-align:left">Lien de l&apos;arr&#xEA;t&#xE9; administratif</td>
+      <td style="text-align:left">string (uri)</td>
+      <td style="text-align:left">Oui</td>
+      <td style="text-align:left">https://cdn.paris.fr/paris/2021/05/28/23fb2b69cfa451a4e517f1bc6e3001b7.pdf</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">url_site_information</td>
+      <td style="text-align:left">Page web d&#xE9;crivant le dispositi</td>
+      <td style="text-align:left">string (uri)</td>
+      <td style="text-align:left">Non</td>
+      <td style="text-align:left">https://www.metropolegrandparis.fr/fr/ZFE</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Publication des données
 
