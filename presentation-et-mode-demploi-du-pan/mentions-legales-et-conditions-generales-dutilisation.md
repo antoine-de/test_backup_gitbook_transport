@@ -159,7 +159,9 @@ Nous déposons des cookies de mesure d’audience \(nombre de visites, pages con
 
 Nous déposons également des cookies de navigation, aux fins strictement techniques, qui ne sont pas conservés \(mémorisation, pendant la durée de la session, des paramètres de filtrage et de préférence de fond cartographique\). La consultation de la plateforme n’est pas affectée lorsque les utilisateurs utilisent des navigateurs désactivant les cookies. 
 
-Les adresses IP sont collectées et conservées pour une durée de six \(6\) mois.  
+Les adresses IP sont collectées et conservées pour une durée de six \(6\) mois.
+
+Nous utilisons pour cela Matomo \([https://fr.matomo.org/](https://fr.matomo.org/)\), un outil libre, paramétré pour être en conformité avec la recommandation « Cookies » de la CNIL. Cela signifie que votre adresse IP, par exemple, est anonymisée avant d'être enregistrée. Il est donc impossible d'associer vos visites sur ce site à votre personne.  
 
 
 ### Inscription à la lettre d’informations électronique de transport.data.gouv.fr
