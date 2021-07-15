@@ -268,7 +268,22 @@ Les aires réglementées et les voies exceptionnelles sont décrits par les mêm
 
 ## Publication des données
 
+### Espace de publication
 
+Les données devront être publiées sur data.gouv.fr. Pour ce faire deux méthodes sont possibles : 
+
+* utiliser l'interface [publier.etalab.studio](https://publier.etalab.studio/select?schema=etalab%2Fschema-zfe). Cela simplifie et accélère le processus de publication des données sur data.gouv.fr
+* assurer que les données publiées sur le portail local sont bien moissonnées.
+
+Dans tous les cas il sera nécessaire d'associer le mot-clef "zfe" au jeu de données pour qu'il puisse être intégré à la Base Nationale.
+
+### Fichiers multiples
+
+Comme présenté ici, une ZFE peut être décrite par un fichier décrivant les aires et un fichier décrivant les tronçons routiers spéciaux. Idéalement ces deux ressources devraient être publiées dans un même jeu de données sur data.gouv.fr. Cependant il est possible qu'il soit complexe pour certains producteurs \(notamment utilisateurs de la solution OpenDataSoft\) de rassembler des géométries de nature différente. C'est pourquoi il est autorisé de publier les deux fichiers \(aires et tronçons\) dans deux jeux de données différents. 
+
+### Consolidation et Base Nationale
+
+Les données publiées localement seront consolidées et regroupées dans une Base Nationale publiées sur data.gouv.fr et référencées sur transport.data.gouv.fr. Cette base sera composée de deux fichiers de données : un fichier des aires réglementées et un fichier des tronçons routiers spéciaux. 
 
 
 
