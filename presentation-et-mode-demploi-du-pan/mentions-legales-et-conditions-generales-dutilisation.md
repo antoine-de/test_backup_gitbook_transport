@@ -117,8 +117,11 @@ La nature des opérations réalisées sur les données est : collecte, enregistr
 
 Les données à caractère personnel traitées sont : prénoms, nom, nom usuel, adresse email professionnelle.
 
-Les données sont conservées pour une durée de : 22 ans ou jusqu'à l’expiration du contrat, à compter de la notification.  
+Les données sont conservées pour une durée de : 22 ans ou jusqu'à l’expiration du contrat, à compter de la notification.
 
+#### Logiciels utilisés dans le traitement des données
+
+Nous utilisons à des fins opérationnels le logiciel Pipedrive \([https://www.pipedrive.com/](https://www.pipedrive.com/)\). Ce service tiers est hébergé en Allemagne et dispose de ses propres modalités d’utilisation. Il est conforme à la réglementation européenne sur les données personnelles. 
 
 #### Vos droits
 
