@@ -1,15 +1,5 @@
 # Mentions légales et conditions générales d'utilisation
 
-TODO:
-
-* [https://github.com/etalab/transport-site/issues/1558](https://github.com/etalab/transport-site/issues/1558) pour l'intégralité des éléments à reprendre
-* Modèle intéressant: [https://aides-territoires.beta.gouv.fr/mentions-légales/](https://aides-territoires.beta.gouv.fr/mentions-légales/)
-* Autre modèle: [https://docs.potentiel.beta.gouv.fr/info/cgu\#cookies](https://docs.potentiel.beta.gouv.fr/info/cgu#cookies)
-
-
-
-#### Donnée brute d'origine
-
 ## Mentions Légales
 
 ### Editeurs
