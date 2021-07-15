@@ -48,6 +48,7 @@
 
 ## Cadre juridique <a id="presentation-et-mode-demploi-du-pan"></a>
 
+* [Mentions légales et conditions générales d'utilisation](presentation-et-mode-demploi-du-pan/mentions-legales-et-conditions-generales-dutilisation.md)
 * [Cadre juridique harmonisé](presentation-et-mode-demploi-du-pan/cadre-juridique-harmonise.md)
 * [Mentions légales](presentation-et-mode-demploi-du-pan/mentions-legales.md)
 
