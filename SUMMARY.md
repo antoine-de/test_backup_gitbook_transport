@@ -19,7 +19,14 @@
 ## Producteurs
 
 * [Responsabilités des AOM et des délégataires](producteurs/responsabilite-des-aom-et-des-delegataires.md)
-* [Publier des données](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan.md)
+* [Notre offre de service](producteurs/notre-offre-de-service.md)
+* [Publier des données](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/README.md)
+  * [Créer un compte utilisateur sur data.gouv.fr](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/creer-un-compte-utilisateur-sur-data.gouv.fr.md)
+  * [Créer une organisation sur data.gouv.fr](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/creer-une-organisation-sur-data.gouv.fr.md)
+  * [Publier un jeu de données](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees/README.md)
+    * [1. Méthode transport.data.gouv.fr](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees/1.-methode-transport.data.gouv.fr.md)
+    * [2. Méthode moissonnage](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees/2.-methode-moissonnage.md)
+    * [3. Publication par publier.etalab.studio](producteurs/comment-et-pourquoi-les-producteurs-de-donnees-utilisent-ils-le-pan/publier-un-jeu-de-donnees/3.-publication-par-publier.etalab.studio.md)
 * [Mettre à jour des données](producteurs/mettre-a-jour-des-donnees.md)
 * [Transport régulier de personnes \(transports en commun...\)](producteurs/operateurs-de-transport-regulier-de-personnes/README.md)
   * [Publier des horaires théoriques de transport régulier](producteurs/operateurs-de-transport-regulier-de-personnes/publier-des-horaires-theoriques-de-transport-regulier.md)
