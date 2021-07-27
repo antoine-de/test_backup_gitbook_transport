@@ -13,7 +13,7 @@ La documentation de data.gouv.fr peut également être pertinente pour répondre
 
 ### Créer un compte utilisateur sur data.gouv.fr
 
-Si vous ne disposez de compte sur data.gouv.fr, il sera nécessaire d'en créer pour toutes les opérations suivantes. 
+Si vous ne disposez de compte sur data.gouv.fr, il sera nécessaire d'en créer un pour toutes les opérations suivantes. 
 
 Pour créer votre compte utilisateur personnel \(vous pourrez ensuite rejoindre ou créer une organisation\) rendez-vous ici : [https://www.data.gouv.fr/fr/register](https://www.data.gouv.fr/fr/register)
 
@@ -49,16 +49,16 @@ Nous présentons ici la méthode pour publier un jeu de données depuis transpor
 
 ![](../.gitbook/assets/image%20%28162%29.png)
 
-* Choisir "publier en tant qu'organisation et en sélectionnant l'organisation pertinente
-* Un formulaire vous permet de décrire votre jeu de données. 
-  * titre : nous vous recommandons d'indiquer dans le titre le contenu du jeu de données et la couverture géographique des données et le format des données si cela est pertinent. Voici quelques exemples :
+* Choisir _"publier en tant qu'organisation"_ et en sélectionnant l'organisation pertinente
+* Un **formulaire** vous permet de décrire votre jeu de données :
+  * **Titre :** nous vous recommandons d'indiquer dans le titre le contenu du jeu de données et la couverture géographique des données et le format des données si cela est pertinent. Voici quelques exemples :
     * Horaires théoriques du réseau Astuce - Métropole de Rouen \(GTFS\)
     * Aménagements cyclables - Grand Poitiers
     * Parkings hors voirie - Ville d'Annecy
-  * description : préciser le contenu des données, leur rythme de mise à jour, leur mode de production...
-  * licence : choisir Licence ouverte/Open Licence version 2.0 ou Open Data Commons Open Database License \(ODbL\)
-  * Fréquence de mise à jour : préciser si vous connaissez le rythme de mise à jour
-  * mots clefs : il est généralement utile de préciser le format des données dans les tags. Comme gtfs ou irve... Certains tags sont attendus si les données correspondent à un schéma hébergé sur schema.data.gouv.fr
+  * **Description :** préciser le contenu des données, leur rythme de mise à jour, leur mode de production...
+  * **Licence :** choisir Licence ouverte/Open Licence version 2.0 ou Open Data Commons Open Database License \(ODbL\)
+  * **Fréquence de mise à jour :** préciser si vous connaissez le rythme de mise à jour
+  * **Mots clefs :** il est généralement utile de préciser le format des données dans les tags. Comme gtfs ou irve... Certains tags sont attendus si les données correspondent à un schéma hébergé sur schema.data.gouv.fr
 * Un second formulaire vous permet d'ajouter des ressources au jeu de données. Pour importer votre premier fichier, cliquez sur le bouton Choisissez un fichier de votre ordinateur. Une fois votre fichier importé, vous pouvez le décrire en complétant le formulaire qui apparaît alors sur votre écran. Si votre jeu de données contient plusieurs fichiers, remplissez un formulaire par fichier. Il est également possible de référencer un fichier de données distant en utilisant une URL plutôt que de déposer un fichier. 
 
 Vous pouvez alors publier le jeu de données. Nous serons alerté de sa publication et nous nous chargerons de son référencement sur transport.data.gouv.fr. 
