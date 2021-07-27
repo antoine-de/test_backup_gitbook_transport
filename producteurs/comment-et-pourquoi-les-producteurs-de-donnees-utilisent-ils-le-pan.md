@@ -94,6 +94,8 @@ Dans tous les cas, si vos données ne sont pas référencées ou intégrées à 
 * **Économies sur les frais de serveur** avec la possibilité d’héberger sur les serveurs du PAN les flux temps-réel à haut niveau de sollicitation.
 
 {% hint style="info" %}
-_**Pour les données temps-réel** : l’information en temps réel permet d’augmenter sensiblement l’usage des différents services de mobilité, car l’utilisateur maîtrise mieux son temps d’attente et de trajet. Le producteur fournit un flux de données mis à jour toutes les 30 secondes. Pour cette raison, la charge sur les serveurs est une crainte légitime de nombreux producteurs. Le PAN teste actuellement une solution dans laquelle il joue le rôle de serveur mandataire \(proxy\) : seul le PAN effectue un téléchargement toutes les 30 secondes chez le producteur et les réutilisateurs téléchargent depuis le PAN._
+**Pour les données temps-réel :** l’information en temps réel permet d’augmenter sensiblement l’usage des différents services de mobilité, car l’utilisateur maîtrise mieux son temps d’attente et de trajet. Le producteur fournit un flux de données mis à jour toutes les 30 secondes. Pour cette raison, la charge sur les serveurs est une crainte légitime de nombreux producteurs. 
+
+Le PAN teste actuellement une solution dans laquelle il joue le rôle de serveur mandataire \(proxy\) : seul le PAN effectue un téléchargement toutes les 30 secondes chez le producteur et les réutilisateurs téléchargent depuis le PAN.
 {% endhint %}
 
