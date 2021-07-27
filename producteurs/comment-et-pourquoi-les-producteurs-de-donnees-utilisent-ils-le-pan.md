@@ -58,29 +58,29 @@ Nous présentons ici la méthode pour publier un jeu de données depuis transpor
   * **Description :** préciser le contenu des données, leur rythme de mise à jour, leur mode de production...
   * **Licence :** choisir Licence ouverte/Open Licence version 2.0 ou Open Data Commons Open Database License \(ODbL\)
   * **Fréquence de mise à jour :** préciser si vous connaissez le rythme de mise à jour
-  * **Mots clefs :** il est généralement utile de préciser le format des données dans les tags. Comme gtfs ou irve... Certains tags sont attendus si les données correspondent à un schéma hébergé sur schema.data.gouv.fr
-* Un second formulaire vous permet d'ajouter des ressources au jeu de données. Pour importer votre premier fichier, cliquez sur le bouton Choisissez un fichier de votre ordinateur. Une fois votre fichier importé, vous pouvez le décrire en complétant le formulaire qui apparaît alors sur votre écran. Si votre jeu de données contient plusieurs fichiers, remplissez un formulaire par fichier. Il est également possible de référencer un fichier de données distant en utilisant une URL plutôt que de déposer un fichier. 
+  * **Mots clefs :** il est généralement utile de préciser le format des données dans les tags. Comme gtfs ou irve... Certains tags sont attendus si les données correspondent à un schéma hébergé sur _schema.data.gouv.fr_
+* Un **second formulaire** vous permet d'ajouter des ressources au jeu de données. Pour importer votre premier fichier, cliquez sur le bouton _Choisissez un fichier_ de votre ordinateur. Une fois votre fichier importé, vous pouvez le décrire en complétant le formulaire qui apparaît alors sur votre écran. Si votre jeu de données contient plusieurs fichiers, **remplissez un formulaire par fichier.** Il est également possible de référencer un fichier de données distant en utilisant une URL plutôt que de déposer un fichier. 
 
-Vous pouvez alors publier le jeu de données. Nous serons alerté de sa publication et nous nous chargerons de son référencement sur transport.data.gouv.fr. 
+Vous pouvez alors publier le jeu de données. Nous serons alerté de sa publication et nous nous chargerons de son référencement sur _**transport.data.gouv.fr.**_ 
 
 {% hint style="warning" %}
-Une fois ces formulaires remplis vous pourrez décider de publier "publiquement" les données ou de manière "privée" \(c'est-à-dire non visible par des utilisateurs non administrateurs de la plateforme\). Si vous choisissez "privé" pour une raison, merci de nous signaler la publication \(à l'adresse contact@transport.beta.gouv.fr\) car notre système d'alerte ne nous permet pas de détecter les jeux de données publiés de manière privée \(quand bien même ils sont ensuite rendus publics\).
+Une fois ces formulaires remplis vous pourrez décider de publier _"publiquement"_ les données ou de manière _"privée"_ \(c'est-à-dire non visible par des utilisateurs non administrateurs de la plateforme\). Si vous choisissez _"privé"_ pour une raison, merci de nous signaler la publication \(à l'adresse _contact@transport.beta.gouv.fr_\) car notre système d'alerte ne nous permet pas de détecter les jeux de données publiés de manière privée \(quand bien même ils sont ensuite rendus publics\).
 {% endhint %}
 
 #### **2. Méthode moissonnage**
 
-Il est également possible de faire moissonner votre portail open data et ainsi faire référencer vos données sur data.gouv.fr. Pour cette méthode nous recommandons de suivre ce tutoriel : [https://doc.data.gouv.fr/jeux-de-donnees/demander-a-datagouvfr-de-moisonner-votre-site/](https://doc.data.gouv.fr/jeux-de-donnees/demander-a-datagouvfr-de-moisonner-votre-site/)
+Il est également possible de faire moissonner votre portail open data et ainsi faire référencer vos données sur _data.gouv.fr_. Pour cette méthode nous recommandons de suivre ce tutoriel : [https://doc.data.gouv.fr/jeux-de-donnees/demander-a-datagouvfr-de-moisonner-votre-site/](https://doc.data.gouv.fr/jeux-de-donnees/demander-a-datagouvfr-de-moisonner-votre-site/)
 
 #### **3. Publication par publier.etalab.studio**
 
-L'outil[ publier.etalab.studio](https://publier.etalab.studio/) est adapté pour publier des jeux de données correspondant à un schéma national référencé sur schéma.data.gouv.fr comme les bornes de recharges des véhicules électrique \(IRVE\), le stationnement hors voirie, les aménagements cyclables, les aires de covoiturage, le stationnement cyclable. 
+L'outil[ publier.etalab.studio](https://publier.etalab.studio/) est adapté pour publier des jeux de données correspondant à un schéma national référencé sur _schéma.data.gouv.fr_ comme les bornes de recharges des véhicules électrique \(IRVE\), le stationnement hors voirie, les aménagements cyclables, les aires de covoiturage, le stationnement cyclable. 
 
 {% hint style="info" %}
-Les données de mobilité publiées seront utilisées par transport.data.gouv.fr et les réutilisateurs de la plateforme. S'il s'agit de jeux de données sur les horaires théoriques ou temps-réel de transports en commun, de vélos en libre service, d'aménagements cyclables, d'autopartage, les jeux de données seront référencés manuellement par l'équipe de transport.data.gouv.fr sur notre site. 
+Les données de mobilité publiées seront utilisées par _transport.data.gouv.fr_ et les réutilisateurs de la plateforme. S'il s'agit de jeux de données sur les horaires théoriques ou temps-réel de transports en commun, de vélos en libre service, d'aménagements cyclables, d'autopartage, les jeux de données seront référencés manuellement par l'équipe de _transport.data.gouv.fr_ sur notre site. 
 
-D'autres données ne sont pas référencées mais intégrées à des bases nationales les jeux de données ne sont pas référencés individuellement mais intégrés à des bases nationales. C'est le cas pour les IRVE, le stationnement hors voirie ou les aires de covoiturage. 
+D'autres données ne sont pas référencées mais intégrées à des bases nationales. Les jeux de données ne sont pas référencés individuellement mais intégrés à des bases nationales. C'est le cas pour les IRVE, le stationnement hors voirie ou les aires de covoiturage. 
 
-Dans tous les cas, si vos données ne sont pas référencées ou intégrées à une base nationale, merci de nous le signaler à l'adresse contact@transport.beta.gouv.fr.
+Dans tous les cas, si vos données ne sont pas référencées ou intégrées à une base nationale, merci de nous le signaler à l'adresse _contact@transport.beta.gouv.fr_.
 {% endhint %}
 
 ## L’offre de services de l’équipe du PAN pour les producteurs de données
