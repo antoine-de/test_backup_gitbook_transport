@@ -34,12 +34,18 @@ Certains aménagements, dont les aménagements non réglementaires, ne contienne
 Ces aménagements ont été définis grâce aux définitions et illustrations : 
 
 * du Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement \([CEREMA](https://www.cerema.fr/fr)\) ;
+* du [Wiki d'OpenStreetMap sur les aménagements cyclable](https://wiki.openstreetmap.org/wiki/FR:Bicycle) ;
 * de la Fédération Française des Usagers de la Bicyclette \([FUB](https://www.fub.fr/)\) ;
 * de l'Association Droit au Vélo \([ADAV](https://droitauvelo.org/)\) ;
 * de l'association [Vélo & Territoires ](https://www.velo-territoires.org/);
 * de[ France Vélo Tourisme](https://www.francevelotourisme.com/conseils/preparer-mon-voyage-a-velo/reseau-cyclable-france), 
 * d'Emmanuel Roche, Grand Chambéry
 * de Michael Häusle, [SIOCA](https://www.sioca.fr)
+
+{% hint style="info" %}
+Noms des aménagements cyclables   
+Les notions entre parenthèse et en italique représentent l'équivalent du nom de l'aménagement dans OpenStreetMap 
+{% endhint %}
 
 ## Aménagements cyclables
 
@@ -69,7 +75,7 @@ Les définitions suivantes ne caractérisent pas des aménagements règlementair
 
 **Carrefour** : maintenir les pistes cyclables dans les carrefours importants est généralement complexe notamment du fait des nombreux croisements avec les flux piétons.
 
-### Bande cyclable
+### Bande cyclable _\(_[_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_lane_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_\)_
 
 Une bande cyclable désigne une voie exclusivement réservée aux cycles à deux ou trois roues sur une chaussée à plusieurs voies \(Décret n° 98-828 du 14 septembre 1998, art. R110-2 \). 
 
@@ -111,7 +117,7 @@ Panneau B40 \(usage obligatoire\)
 ![](../../.gitbook/assets/image-20-2-.png) 
 {% endhint %}
 
-### Chaussée à voie centrale banalisée
+### Chaussée à voie centrale banalisée _\(_[_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=\*_[_\[1\]_](https://wiki.openstreetmap.org/wiki/FR:Bicycle#cite_note-anyroad-1) _+_ [_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=lane +_ [_lanes_](https://wiki.openstreetmap.org/wiki/FR:Key:lanes)_=1 +_ [_oneway_](https://wiki.openstreetmap.org/wiki/FR:Key:oneway)_=no\)_
 
 La chaussée à voie centrale banalisée, ou « C.V.C.B. », est un aménagement particulier d’une chaussée lorsqu’il est impossible, pour des questions de largeur disponible, d’y tracer des bandes cyclables. On crée alors une voie centrale de circulation générale, banalisée car elle accueille la circulation dans les deux sens. La largeur restante est octroyée à des accotements revêtus où peuvent circuler piétons et cyclistes et permettent aux véhicules motorisés de se croiser en empiétant sur ces espaces. Cet aménagement n’a pas vocation à être d’emploi systématique mais doit rester exceptionnel. Le statut d’accotement permet en effet arrêt et stationnement des véhicules motorisés \[6, R. 417-1\], sauf décision contraire de l'autorité investie du pouvoir de police matérialisée par la signalisation prévue à cette effet, ce que ne permettent pas les bandes cyclables et pistes cyclables. La largeur minimale recommandée des accotements d’une chaussée à voie centrale banalisée est la même que celle des bandes cyclables, 1,50 m hors marquage.
 
@@ -137,7 +143,7 @@ Il n’y a pas, à l’heure actuelle, de panneau officiel indiquant l’entrée
 ![](../../.gitbook/assets/image%20%2865%29.png)
 {% endhint %}
 
-### Couloir ouvert bus/vélo
+### Couloir ouvert bus/vélo _\(_[_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_share\_busway_](https://wiki.openstreetmap.org/wiki/FR:Tag:cycleway%3Dshare_busway)_\)_
 
 Un couloir bus-vélos est une voie dédiée à la circulation mixte des bus et des vélos \(article R412-7 du code de la route\). 
 
@@ -161,7 +167,7 @@ Le couloir de bus dit « fermé » : La séparation est un séparateur non franc
   ![](../../.gitbook/assets/image%20%282%29.png)
 {% endhint %}
 
-### Double sens cyclable 
+### Double sens cyclable _\(_[_oneway_](https://wiki.openstreetmap.org/wiki/FR:Key:oneway)_=no\)_
 
 Le double-sens cyclable, ou « D.S.C. », n’est pas tant un objet qu’un concept ou une caractéristique portée par une rue. Une rue dite « en double-sens cyclable » est à double sens de circulation — ou bidirectionnelle —, mais un de ces sens est réservé aux seuls cyclistes. 
 
@@ -217,7 +223,7 @@ Aménagement qui facilite la montée et la descente d’un escalier avec un vél
 ![](../../.gitbook/assets/image-5-.png) 
 {% endhint %}
 
-### Piste cyclable
+### Piste cyclable _\(_[_cycleway_](https://wiki.openstreetmap.org/wiki/FR:Key:cycleway)_=_[_track_](https://wiki.openstreetmap.org/wiki/FR:Tag:leisure%3Dtrack)_\)_
 
 Chaussée exclusivement réservée aux cycles à deux ou trois roues et aux engins de déplacement personnel motorisés \(Article R. 110-2 du code de la route\). 
 
@@ -271,7 +277,7 @@ Panneau B40 \(usage obligatoire\)
 
 
 
-### Vélorue
+### Vélorue _\(_[_cyclestreet_](https://wiki.openstreetmap.org/wiki/FR:Key:cyclestreet)_=yes\)_
 
 La vélorue n’a, à l’heure de l’écriture de ce document, pas de cadre réglementaire en France. Elle existe ailleurs en Europe : en Belgique, au Danemark ou aux Pays-Bas. Plusieurs collectivités françaises dont Strasbourg, Bordeaux, Dijon ont tout de même franchi le cap et ont transformé certaines de leurs rues en vélorues.
 
@@ -291,7 +297,7 @@ La vélorue n’étant pas encore réglementée , aucune signalisation particuli
 ![](../../.gitbook/assets/image-7-2-.png)
 {% endhint %}
 
-### Voie verte
+### Voie verte _\(_[_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=_[_path\)_](https://wiki.openstreetmap.org/wiki/FR:Tag:highway%3Dpath)\_\_
 
 Une voie verte désigne une route exclusivement réservée à la circulation d'usagers non motorisés, à savoir les piétons au sens large \(pratiquants de rollers, personnes en fauteuil roulant…\), les cyclistes et les cavaliers. Ce sont des aménagements en site propre \(séparés de la circulation motorisée\), destinés aux déplacements quotidiens et de loisirs, et souvent réalisés sur une ancienne voie de chemin de fer désaffectée, un chemin de halage, un chemin rural, un chemin forestier, etc. \(Décret n° 2004-998 du 16 septembre 2004\). Sa Largeur varie entre 3 et 5m. Elle est signalée à l'entrée par un panneau C115 et en sortie par un panneau C116.
 
@@ -351,7 +357,7 @@ Les rues d'une aire piétonne ont toutes vocation à être en double-sens cyclab
 ![](../../.gitbook/assets/image%20%2837%29.png)
 {% endhint %}
 
-### Zone de rencontre 
+### Zone de rencontre _\(_[_highway_](https://wiki.openstreetmap.org/wiki/FR:Key:highway)_=_[_living\_street_](https://wiki.openstreetmap.org/wiki/FR:Tag:highway%3Dliving_street)_\)_
 
 Une zone de rencontre désigne une section ou un ensemble de sections de voies en agglomération constituant une zone affectée à la circulation de tous les usagers. Dans cette zone, les piétons sont autorisés à circuler sur la chaussée sans y stationner et bénéficient de la priorité sur les véhicules. La vitesse des véhicules y est limitée à 20 km/h.  Les entrées et sorties de cette zone sont annoncées par une signalisation et l’ensemble de la zone est aménagé de façon cohérente avec la limitation de vitesse applicable. 
 
@@ -369,7 +375,7 @@ Les rues d'une zone de rencontre ont toutes vocation à être en double-sens cyc
 ![](../../.gitbook/assets/image%20%2851%29.png) 
 {% endhint %}
 
-### Zone 30
+### Zone 30 [_\(maxspeed_](https://wiki.openstreetmap.org/wiki/FR:Key:maxspeed)_=30\)_
 
 Une zone 30 désigne une section ou un ensemble de sections de voies constituant une zone affectée à la circulation de tous les usagers. Dans cette zone, la vitesse des véhicules est limitée à 30 km/h. Les entrées et sorties de cette zone sont annoncées par une signalisation B30 et B51, et l’ensemble de la zone est aménagé de façon cohérente avec la limitation de vitesse applicable. 
 
