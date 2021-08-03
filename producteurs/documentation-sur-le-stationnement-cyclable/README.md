@@ -45,9 +45,13 @@ Le champ "mobilier" permet de décrire le type d'équipement de stationnement v�
 
 Dans cette page de documentation nous vous présentons une photothèque des différents équipements pour illustrer chaque modalité retenue et de préciser à quel tag la modalité fait référence. N'hésitez pas à nous soumettre des images complémentaires. 
 
-#### ARCEAU \(_stands_\)
+#### ARCEAU
 
 Pièce de métal pliée contre laquelle vous pouvez appuyer votre vélo entier. Permet d'y fixer le cadre et une roue. Sécurité modérée. Utilisez cette étiquette pour les supports non rectangulaires également \(par exemple, les supports ronds, les supports artistiques fantaisistes, les supports longs permettant d'attacher plus de deux véhicules\).
+
+_Dans OpenStreetMap, les arceaux sont généralement décrits au moyen du tag :  \(_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=stands\)_
+
+\*\*\*\*
 
 ![](../../.gitbook/assets/image%20%28139%29.png)![](../../.gitbook/assets/image%20%28155%29.png)
 
@@ -59,21 +63,27 @@ Pièce de métal pliée contre laquelle vous pouvez appuyer votre vélo entier. 
 **Ne pas confondre avec les potelets \(**_**bollard**_**\) plus dont le cercle central est plus petit et ne permet d'appuyer complètement le vélo**
 {% endhint %}
 
-#### **RATELIER \(wall\_loops\)**
+#### **RATELIER**
 
 Parfois appelés "pince-roues", les rateliers sont attachés aux murs ou fixés au sol. Fixe uniquement la roue avant \(ou éventuellement la roue arrière\), le mors avant ou le mors inférieur. En cas de mouvement violent, les roues du vélo peuvent être endommagées. Faible sécurité.	
 
+_Dans OpenStreetMap, les rateliers sont généralement décrits au moyen du tag :  \(_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=wall\_loops\)_
+
 ![](../../.gitbook/assets/image%20%28150%29.png)![](../../.gitbook/assets/image%20%28145%29.png)![](../../.gitbook/assets/image%20%28158%29.png)![](../../.gitbook/assets/image%20%28154%29.png)
 
-#### **RACK DOUBLE ETAGE \(**_**two\_tier**_**\)**
+#### **RACK DOUBLE ETAGE**
 
 Un support à deux niveaux, où deux bicyclettes peuvent être stockées l'une au-dessus de l'autre.
 
+_Dans OpenStreetMap, les racks double étage sont généralement décrits au moyen du tag :  \(_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=two\_tier\)_
+
 ![](../../.gitbook/assets/image%20%28160%29.png)![](../../.gitbook/assets/image%20%28149%29.png)
 
-**CROCHET \(**_**tree**_**\)**
+**CROCHET**
 
 Un crochet permet d'accrocher le vélo en suspension par la roue supérieure. 
+
+_Dans OpenStreetMap, les crochets sont généralement décrits au moyen du tag :  \(_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=tree\)_
 
 ![](../../.gitbook/assets/image%20%28159%29.png)![](../../.gitbook/assets/image%20%28147%29.png)
 
@@ -81,9 +91,11 @@ Un crochet permet d'accrocher le vélo en suspension par la roue supérieure.
 A différencier du support guidon qui ne laisse pas le vélo en suspension
 {% endhint %}
 
-**SUPPORT GUIDON \(**_**handlebar\_holder**_**\)**
+**SUPPORT GUIDON**
 
 Structure métallique avec des supports où le guidon d'une bicyclette peut être monté afin de garer la bicyclette. 
+
+_Dans OpenStreetMap, les supports guidon sont généralement décrits au moyen du tag :  \(_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=handlebar\_holder\)_
 
 	![](../../.gitbook/assets/image%20%28135%29.png)![](../../.gitbook/assets/image%20%28144%29.png)
 
@@ -91,9 +103,11 @@ Structure métallique avec des supports où le guidon d'une bicyclette peut êtr
 A différencier du crochet qui tient le vélo en suspension
 {% endhint %}
 
-#### **POTELET \(**_**bollard**_**\)**
+#### **POTELET**
 
 Type spécial de borne conçu pour le verrouillage des vélos. En général, le vélo est verrouillé sur le poteau central et des "bras" empêchent les voleurs de simplement soulever le vélo par-dessus le poteau. 
+
+_Dans OpenStreetMap, les potelets sont généralement décrits au moyen du tag :  \(_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=bollard\)_
 
 {% hint style="warning" %}
 Ceux dont l'anneau est si grand qu'il peut être utilisé pour appuyer tout le vélo peuvent également être qualifiés d'arceau.	
@@ -112,6 +126,8 @@ Arceau spécial prévu pour les vélo de grande taille notamment vélos cargos.
 #### **AUCUN EQUIPEMENT \(**_**floor**_**\)**
 
 Espace dédié au stationnement sans équipement pour accrocher le vélo. Cela peut être notamment le cas dans des box individuels sans accroche ou des espaces réservés au stationnement vélo dans des cours d'immeubles sans équipement spécifique. 
+
+_Dans OpenStreetMap, les espaces de stationnement vélo sans équipement sont généralement décrits au moyen du tag :  \(_[_bicycle\_parking_](https://wiki.openstreetmap.org/wiki/Key:bicycle_parking)_=floor\)_
 
 ### **Type d'accroche**
 
