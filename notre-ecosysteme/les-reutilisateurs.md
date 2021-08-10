@@ -12,6 +12,10 @@
 
 ![](../.gitbook/assets/logo-apitux.jpg)
 
+### [Avem](https://www.avem.fr/)
+
+![](../.gitbook/assets/logo.png)
+
 ### \*\*\*\*[**BlaBlaCar**](https://www.blablalines.com/)\*\*\*\*
 
 ![](../.gitbook/assets/5ae38dd726c97415d3213569.png)
